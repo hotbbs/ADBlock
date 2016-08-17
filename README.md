@@ -1,2 +1,2 @@
 # ADBlock
-AD block for self use
+AD block rule for self use in maxthon(4,5)
