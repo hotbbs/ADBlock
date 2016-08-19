@@ -46,3 +46,13 @@
 ##div[class="rela-post"]
 ##div[class="newsgrade"]
 ##div[class="con_2"]
+
+!CNBeta.com
+/weibo.com/
+##div[class="cb_box hd_main"]
+##div[class="fr"]
+##div[id="left_art"]
+##div[class="goToTop"]
+##section[class="mt5 cb_box"]
+##section[class="mt5 cber hotcomments"]
+
