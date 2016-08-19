@@ -48,7 +48,7 @@
 ##div[class="con_2"]
 
 !CNBeta.com
-/weibo.com/
+/weibo.com|tanx.com|baidu.com/
 ##div[class="cb_box hd_main"]
 ##div[class="fr"]
 ##div[id="left_art"]
