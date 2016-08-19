@@ -14,6 +14,8 @@
 ##p[class="news_bq"]
 ##table[width="100%"]
 ##div[style="height:50px;"]
+##div[class="shidian"]
+##div[class="zcdf"]
 
 !163.com
 ##div[class="post_header"]
