@@ -1,32 +1,48 @@
-!当前过滤规则需要手动复制到maxthon里相应的ABP规则中，后续慢慢修改为可以订阅的规则
+!当前过滤规则需要手动复制到maxthon里相应的ABP规则中
 !作者：天涯人
 !更新日期：2016.08.19
 
 !Mydrivers.com
-Mydrivers.com##table[width="998"]
-Mydrivers.com##div[class="news_right"]
-Mydrivers.com##div[class="btnPrev"]
-Mydrivers.com##div[class="btnNext"]
-Mydrivers.com##div[class="weixin"]
-Mydrivers.com##div[class="news_xg"]
-Mydrivers.com##div[class="adggg1"]
-Mydrivers.com##div[style="width:641px; height:30px;"]
-Mydrivers.com##p[class="news_bq"]
-Mydrivers.com##table[width="100%"]
-Mydrivers.com##div[style="height:50px;"]
+##table[width="998"]
+##div[class="news_right"]
+##div[class="btnPrev"]
+##div[class="btnNext"]
+##div[class="weixin"]
+##div[class="news_xg"]
+##div[class="adggg1"]
+##div[style="width:641px; height:30px;"]
+##p[class="news_bq"]
+##table[width="100%"]
+##div[style="height:50px;"]
 
 !163.com
-163.com##div[class="post_header"]
-163.com##div[class="ns_area index_top_ad"]
-163.com##div[id="epContentRight"]
-163.com##div[id="post_recommend"]
-163.com##div[class="post_next_post_wrap"]
-163.com##div[class="newsapp-qrcode"]
-163.com##div[class="mod_ad_toutu"]
-163.com##div[class="mod_top_news_ad"]
-163.com##div[class$=" mod_ad_r"]
-163.com##div[class="ns_sidebar none"]
-163.com##div[class="mt35 mod_bobo"]
-163.com##a[class="newsapp-qrcode"]
-163.com##a[class="ns-side-totop"
+##div[class="post_header"]
+##div[class="ns_area index_top_ad"]
+##div[id="epContentRight"]
+##div[id="post_recommend"]
+##div[class="post_next_post_wrap"]
+##div[class="newsapp-qrcode"]
+##div[class="mod_ad_toutu"]
+##div[class="mod_top_news_ad"]
+##div[class$=" mod_ad_r"]
+##div[class="ns_sidebar none"]
+##div[class="mt35 mod_bobo"]
+##a[class="newsapp-qrcode"]
+##a[class="ns-side-totop"
 
+!12306.cn
+##div#top
+##div[id="appDown"]
+
+!ithome.com
+
+##div#tt50
+##div#side_func
+##div[class="focus_area"]
+##a[href="http://m.ithome.com/ithome/"]
+##div[class="sidebar"]
+##div[class="shareto"]
+##div[class="related_post"]
+##div[class="rela-post"]
+##div[class="newsgrade"]
+##div[class="con_2"]
