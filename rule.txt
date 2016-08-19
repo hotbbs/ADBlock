@@ -28,7 +28,7 @@
 ##div[class="ns_sidebar none"]
 ##div[class="mt35 mod_bobo"]
 ##a[class="newsapp-qrcode"]
-##a[class="ns-side-totop"
+##a[class="ns-side-totop"]
 
 !12306.cn
 ##div#top
