@@ -79,4 +79,7 @@
 !qq.com
 ##div[class="img-box f-video-wrap"]
 
+!maxthon.com
+##div[id="hot_nav_list"]
+
 
