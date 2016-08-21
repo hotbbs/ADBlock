@@ -1,6 +1,6 @@
 !当前过滤规则需要手动复制到maxthon里相应的ABP规则中
 !作者：天涯人
-!更新日期：2016.08.19
+!更新日期：2016.08.21
 
 !Mydrivers.com
 ##table[width="998"]
@@ -57,4 +57,23 @@
 ##div[class="goToTop"]
 ##section[class="mt5 cb_box"]
 ##section[class="mt5 cber hotcomments"]
+
+!sohu.com
+##div[class="rightbar-wrapper grid-300"]
+##div[class="module-cmt-float-bar"]
+##div[id="newsCommentBar"]
+##iframe[width="620"]
+##div[class="share clear lg"]
+##div[class="tagHotg"]
+##div[class="mutu clear"]
+##div[class="function"]
+##div[class="layout-c-2-2"]
+##div[class="qf-video clear"]
+
+!zhibo8.cc
+##div[id="recommend"]
+##div[class="pop-autoapp"]
+##div[class="bbs_container right"]
+##div[class="backToTop"]
+
 
