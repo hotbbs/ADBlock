@@ -76,4 +76,7 @@
 ##div[class="bbs_container right"]
 ##div[class="backToTop"]
 
+!qq.com
+##div[class="img-box f-video-wrap"]
+
 
