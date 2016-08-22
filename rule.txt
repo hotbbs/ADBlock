@@ -1,8 +1,8 @@
 !当前过滤规则需要手动复制到maxthon里相应的ABP规则中
 !作者：天涯人
-!更新日期：2016.08.22
 
 !Mydrivers.com
+!更新日期：2016.08.22
 ##table[width="998"]
 ##div[class="news_right"]
 ##div[class="btnPrev"]
@@ -18,6 +18,8 @@
 ##div[class="zcdf"]
 
 !163.com
+!更新日期：2016.08.22
+/bobo|love.163.com/
 ##div[class="post_header"]
 ##div[class="ns_area index_top_ad"]
 ##div[id="epContentRight"]
@@ -31,13 +33,28 @@
 ##div[class="mt35 mod_bobo"]
 ##a[class="newsapp-qrcode"]
 ##a[class="ns-side-totop"]
+##iframe[height="220"]
+##div[class="post_btmshare"]
+##div[class="post_end_ad"]
+##div[class="post_content_endad"]
+##div[id="postsearch"]
+##div[class="wrapper top-banner"]
+##div[class="sidebar"]
+##div[class="bottom-news"]
+##iframe[src^="http://www.bobo.com/"]
+##div[class="post_topshare"]
+##div[class="ep-keywords clearfix"]
+##div[class="ns_area mt40 index_bottom_ad"]
+##div[class="ns_area index_media"]
+##div[class="ep-love"]
 
 !12306.cn
+!更新日期：2016.08.22
 ##div#top
 ##div[id="appDown"]
 
 !ithome.com
-
+!更新日期：2016.08.22
 ##div#tt50
 ##div#side_func
 ##div[class="focus_area"]
@@ -50,6 +67,7 @@
 ##div[class="con_2"]
 
 !CNBeta.com
+!更新日期：2016.08.22
 /weibo.com|tanx.com|baidu.com/
 ##div[class="cb_box hd_main"]
 ##div[class="fr"]
@@ -59,6 +77,7 @@
 ##section[class="mt5 cber hotcomments"]
 
 !sohu.com
+!更新日期：2016.08.22
 ##div[class="rightbar-wrapper grid-300"]
 ##div[class="module-cmt-float-bar"]
 ##div[id="newsCommentBar"]
@@ -71,18 +90,22 @@
 ##div[class="qf-video clear"]
 
 !zhibo8.cc
+!更新日期：2016.08.22
 ##div[id="recommend"]
 ##div[class="pop-autoapp"]
 ##div[class="bbs_container right"]
 ##div[class="backToTop"]
 
 !qq.com
+!更新日期：2016.08.22
 ##div[class="img-box f-video-wrap"]
 
 !maxthon.com
+!更新日期：2016.08.22
 ##div[id="hot_nav_list"]
 
 !sina.com.cn
+!更新日期：2016.08.22
 ##div[class="right"]
 ##div[class="desktop-side-tool CCC-float-bar-right"]
 ##div[id="relatedNewsWrap"]
