@@ -82,4 +82,13 @@
 !maxthon.com
 ##div[id="hot_nav_list"]
 
+!sina.com.cn
+##div[class="right"]
+##div[class="desktop-side-tool CCC-float-bar-right"]
+##div[id="relatedNewsWrap"]
+##div[class="article-info clearfix"]
+##div[class="bshare-custom topShareBox"]
+##div[id="moodcounter"]
+##div[id="siteSearch"]
+
 
