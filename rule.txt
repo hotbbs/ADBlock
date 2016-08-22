@@ -90,5 +90,5 @@
 ##div[class="bshare-custom topShareBox"]
 ##div[id="moodcounter"]
 ##div[id="siteSearch"]
-
+##div[class^="side-btns-"]
 
