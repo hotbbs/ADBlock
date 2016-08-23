@@ -1,21 +1,12 @@
 !当前过滤规则需要手动复制到maxthon里相应的ABP规则中
 !作者：天涯人
 
-!Mydrivers.com
+
+!12306.cn
 !更新日期：2016.08.22
-##table[width="998"]
-##div[class="news_right"]
-##div[class="btnPrev"]
-##div[class="btnNext"]
-##div[class="weixin"]
-##div[class="news_xg"]
-##div[class="adggg1"]
-##div[style="width:641px; height:30px;"]
-##p[class="news_bq"]
-##table[width="100%"]
-##div[style="height:50px;"]
-##div[class="shidian"]
-##div[class="zcdf"]
+##div#top
+##div[id="appDown"]
+
 
 !163.com
 !更新日期：2016.08.22
@@ -48,10 +39,19 @@
 ##div[class="ns_area index_media"]
 ##div[class="ep-love"]
 
-!12306.cn
+
+
+!CNBeta.com
 !更新日期：2016.08.22
-##div#top
-##div[id="appDown"]
+/weibo.com|tanx.com|baidu.com/
+##div[class="cb_box hd_main"]
+##div[class="fr"]
+##div[id="left_art"]
+##div[class="goToTop"]
+##section[class="mt5 cb_box"]
+##section[class="mt5 cber hotcomments"]
+
+
 
 !ithome.com
 !更新日期：2016.08.22
@@ -66,15 +66,46 @@
 ##div[class="newsgrade"]
 ##div[class="con_2"]
 
-!CNBeta.com
+
+!maxthon.com
+!更新日期：2016.08.23
+##div[id="hot_nav_list"]
+##div[id="quick_dial_hot_site"]
+
+
+!Mydrivers.com
 !更新日期：2016.08.22
-/weibo.com|tanx.com|baidu.com/
-##div[class="cb_box hd_main"]
-##div[class="fr"]
-##div[id="left_art"]
-##div[class="goToTop"]
-##section[class="mt5 cb_box"]
-##section[class="mt5 cber hotcomments"]
+##table[width="998"]
+##div[class="news_right"]
+##div[class="btnPrev"]
+##div[class="btnNext"]
+##div[class="weixin"]
+##div[class="news_xg"]
+##div[class="adggg1"]
+##div[style="width:641px; height:30px;"]
+##p[class="news_bq"]
+##table[width="100%"]
+##div[style="height:50px;"]
+##div[class="shidian"]
+##div[class="zcdf"]
+
+
+!qq.com
+!更新日期：2016.08.22
+##div[class="img-box f-video-wrap"]
+
+
+!sina.com.cn
+!更新日期：2016.08.22
+##div[class="right"]
+##div[class="desktop-side-tool CCC-float-bar-right"]
+##div[id="relatedNewsWrap"]
+##div[class="article-info clearfix"]
+##div[class="bshare-custom topShareBox"]
+##div[id="moodcounter"]
+##div[id="siteSearch"]
+##div[class^="side-btns-"]
+
 
 !sohu.com
 !更新日期：2016.08.22
@@ -89,6 +120,7 @@
 ##div[class="layout-c-2-2"]
 ##div[class="qf-video clear"]
 
+
 !zhibo8.cc
 !更新日期：2016.08.22
 ##div[id="recommend"]
@@ -96,23 +128,8 @@
 ##div[class="bbs_container right"]
 ##div[class="backToTop"]
 
-!qq.com
-!更新日期：2016.08.22
-##div[class="img-box f-video-wrap"]
 
-!maxthon.com
-!更新日期：2016.08.23
-##div[id="hot_nav_list"]
-##div[id="quick_dial_hot_site"]
 
-!sina.com.cn
-!更新日期：2016.08.22
-##div[class="right"]
-##div[class="desktop-side-tool CCC-float-bar-right"]
-##div[id="relatedNewsWrap"]
-##div[class="article-info clearfix"]
-##div[class="bshare-custom topShareBox"]
-##div[id="moodcounter"]
-##div[id="siteSearch"]
-##div[class^="side-btns-"]
+
+
 
