@@ -96,7 +96,8 @@
 
 
 !sina.com.cn
-!更新日期：2016.08.22
+!更新日期：2016.08.23
+/weibo/
 ##div[class="right"]
 ##div[class="desktop-side-tool CCC-float-bar-right"]
 ##div[id="relatedNewsWrap"]
@@ -105,6 +106,15 @@
 ##div[id="moodcounter"]
 ##div[id="siteSearch"]
 ##div[class^="side-btns-"]
+##div[class="side"]
+##div[id="CCCFloatBarRight"]
+##div[class="article-video"]
+##ul[class="love-list"]
+##div[class="share-layout"]
+##h3[class="s-tit"]
+##div[class="article-footer clear"]
+##div[class="wrap"]>iframe[width="1000"]
+##div[class="fixed-nav"]
 
 
 !sohu.com
