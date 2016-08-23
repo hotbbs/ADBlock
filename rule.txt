@@ -130,6 +130,11 @@
 ##div[class="layout-c-2-2"]
 ##div[class="qf-video clear"]
 
+!thepiratebay.org
+!更新日期：2016.08.23
+##iframe
+##div[style="clear:both;"]
+
 
 !zhibo8.cc
 !更新日期：2016.08.22
