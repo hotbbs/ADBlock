@@ -101,8 +101,9 @@
 ##div[class="img-box f-video-wrap"]
 
 !maxthon.com
-!更新日期：2016.08.22
+!更新日期：2016.08.23
 ##div[id="hot_nav_list"]
+##div[id="quick_dial_hot_site"]
 
 !sina.com.cn
 !更新日期：2016.08.22
