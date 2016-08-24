@@ -9,7 +9,7 @@
 
 
 !163.com
-!更新日期：2016.08.22
+!更新日期：2016.08.24
 /bobo|love.163.com/
 ##div[class="post_header"]
 ##div[class="ns_area index_top_ad"]
@@ -38,6 +38,7 @@
 ##div[class="ns_area mt40 index_bottom_ad"]
 ##div[class="ns_area index_media"]
 ##div[class="ep-love"]
+##a[class="newsdata_prev fixed_data_show"]
 
 
 
