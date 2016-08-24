@@ -53,9 +53,9 @@
 ##section[class="mt5 cber hotcomments"]
 
 
-
 !ithome.com
-!更新日期：2016.08.22
+!更新日期：2016.08.24
+/baidu.com/
 ##div#tt50
 ##div#side_func
 ##div[class="focus_area"]
@@ -66,6 +66,7 @@
 ##div[class="rela-post"]
 ##div[class="newsgrade"]
 ##div[class="con_2"]
+##div[class="bx2"]
 
 
 !maxthon.com
