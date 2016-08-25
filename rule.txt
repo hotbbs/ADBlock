@@ -134,7 +134,8 @@
 ##div[class="qf-video clear"]
 
 !thepiratebay.org
-!更新日期：2016.08.23
+!更新日期：2016.08.25
+/traffic.adxprts.com/
 ##iframe
 ##div[style="clear:both;"]
 
