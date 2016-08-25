@@ -93,8 +93,9 @@
 
 
 !qq.com
-!更新日期：2016.08.22
+!更新日期：2016.08.25
 ##div[class="img-box f-video-wrap"]
+##div[class="ck-act"]
 
 
 !sina.com.cn
