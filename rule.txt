@@ -53,6 +53,17 @@
 ##section[class="mt5 cb_box"]
 ##section[class="mt5 cber hotcomments"]
 
+!ifeng.com
+!更新日期：2016.09.19
+##div[class="right"]
+##div[class^="space"]
+##div[class="adbox02 ss_none"]
+##div[class^="go_bank fixed "]
+##div[class="box02"]
+##div[id="wx"]
+##div[class="next ss_none"]
+##div[class="nextWrap"]
+
 
 !ithome.com
 !更新日期：2016.08.24
