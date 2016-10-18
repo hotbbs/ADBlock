@@ -42,16 +42,17 @@
 ##a[class="newsdata_next fixed_data_show"]
 
 
-
 !CNBeta.com
-!更新日期：2016.08.22
-/weibo.com|tanx.com|baidu.com/
+!更新日期：2016.10.18
+/weibo.com|tanx.com|baidu.com|82c8b5f4b78d6e.png/
 ##div[class="cb_box hd_main"]
 ##div[class="fr"]
 ##div[id="left_art"]
 ##div[class="goToTop"]
 ##section[class="mt5 cb_box"]
 ##section[class="mt5 cber hotcomments"]
+##div[id="jzl_reco"]
+
 
 !ifeng.com
 !更新日期：2016.09.19
