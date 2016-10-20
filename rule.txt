@@ -83,8 +83,8 @@
 
 
 !maxthon.com
-!更新日期：2016.08.23
-##div[id="hot_nav_list"]
+!更新日期：2016.10.20
+##ul[id="hot_nav_list"]
 ##div[id="quick_dial_hot_site"]
 
 
