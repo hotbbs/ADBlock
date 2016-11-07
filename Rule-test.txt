@@ -1,0 +1,181 @@
+!当前过滤规则需要手动复制到maxthon里相应的ABP规则中
+!作者：天涯人
+
+
+!12306.cn
+!更新日期：2016.08.22
+##div#top
+##div[id="appDown"]
+
+
+!163.com
+!更新日期：2016.09.05
+/bobo|love.163.com/
+##div[class="post_header"]
+##div[class^="ns_area index_top_ad"]
+##div[id="epContentRight"]
+##div[id="post_recommend"]
+##div[class="post_next_post_wrap"]
+##div[class="newsapp-qrcode"]
+##div[class^="mod_ad_toutu"]
+##div[class="mod_top_news_ad"]
+##div[class$=" mod_ad_r"]
+##div[class="ns_sidebar none"]
+##div[class="mt35 mod_bobo"]
+##a[class="newsapp-qrcode"]
+##a[class="ns-side-totop"]
+##iframe[height="220"]
+##div[class="post_btmshare"]
+##div[class="post_end_ad"]
+##div[class="post_content_endad"]
+##div[id="postsearch"]
+##div[class="wrapper top-banner"]
+##div[class="sidebar"]
+##div[class="bottom-news"]
+##iframe[src^="http://www.bobo.com/"]
+##div[class="post_topshare"]
+##div[class="ep-keywords clearfix"]
+##div[class^="ns_area mt40 index_bottom_ad"]
+##div[class="ns_area index_media"]
+##div[class="ep-love"]
+##a[class="newsdata_prev fixed_data_show"]
+##a[class="newsdata_next fixed_data_show"]
+
+
+!CNBeta.com
+!更新日期：2016.11.07
+/weibo.com|tanx.com|baidu.com|1c8da88ce2274ff.gif/
+##div[class="cb_box hd_main"]
+##div[class="fr"]
+##div[id="left_art"]
+##div[class="goToTop"]
+##section[class="mt5 cb_box"]
+##section[class="mt5 cber hotcomments"]
+##div[id="jzl_reco"]
+
+
+!ifeng.com
+!更新日期：2016.09.19
+##div[class="right"]
+##div[class^="space"]
+##div[class="adbox02 ss_none"]
+##div[class^="go_bank fixed "]
+##div[class="box02"]
+##div[id="wx"]
+##div[class="next ss_none"]
+##div[class="nextWrap"]
+
+
+!ithome.com
+!更新日期：2016.08.24
+/baidu.com/
+##div#tt50
+##div#side_func
+##div[class="focus_area"]
+##a[href="http://m.ithome.com/ithome/"]
+##div[class="sidebar"]
+##div[class="shareto"]
+##div[class="related_post"]
+##div[class="rela-post"]
+##div[class="newsgrade"]
+##div[class="con_2"]
+##div[class="bx2"]
+
+
+!maxthon.com
+!更新日期：2016.10.20
+##ul[id="hot_nav_list"]
+##div[id="quick_dial_hot_site"]
+
+
+!Mydrivers.com
+!更新日期：2016.10.10
+/2345.com|baidu/
+##table[width="998"]
+##div[class="news_right"]
+##div[class="btnPrev"]
+##div[class="btnNext"]
+##div[class="weixin"]
+##div[class="news_xg"]
+##div[class="adggg1"]
+##div[style="width:641px; height:30px;"]
+##p[class="news_bq"]
+##table[width="100%"]
+##div[style="height:50px;"]
+##div[class="shidian"]
+##div[class="zcdf"]
+
+
+!qq.com
+!更新日期：2016.08.25
+##div[class="img-box f-video-wrap"]
+##div[class="ck-act"]
+
+
+!sina.com.cn
+!更新日期：2016.08.23
+/weibo/
+##div[class="right"]
+##div[class="desktop-side-tool CCC-float-bar-right"]
+##div[id="relatedNewsWrap"]
+##div[class="article-info clearfix"]
+##div[class="bshare-custom topShareBox"]
+##div[id="moodcounter"]
+##div[id="siteSearch"]
+##div[class^="side-btns-"]
+##div[class="side"]
+##div[id="CCCFloatBarRight"]
+##div[class="article-video"]
+##ul[class="love-list"]
+##div[class="share-layout"]
+##h3[class="s-tit"]
+##div[class="article-footer clear"]
+##div[class="wrap"]>iframe[width="1000"]
+##div[class="fixed-nav"]
+
+
+!sohu.com
+!更新日期：2016.08.22
+##div[class="rightbar-wrapper grid-300"]
+##div[class="module-cmt-float-bar"]
+##div[id="newsCommentBar"]
+##iframe[width="620"]
+##div[class="share clear lg"]
+##div[class="tagHotg"]
+##div[class="mutu clear"]
+##div[class="function"]
+##div[class="layout-c-2-2"]
+##div[class="qf-video clear"]
+
+
+!thepiratebay.org
+!更新日期：2016.08.25
+/traffic.adxprts.com/
+##iframe
+##div[style="clear:both;"]
+
+
+!weather.com.cn
+!更新日期：2016.10.10
+/wrating.com|amazon/
+##div[class="topad_bg"]
+##div[class="top_contents clearfix"]
+##div[class="col_2 right"]
+##div[class="content_wx"]
+##div[class="rednews rednews1"]
+##div[class="relatednews"]
+##div[class="right fr"]
+##div[id="ab_yjfk"]
+
+
+!zhibo8.cc
+!更新日期：2016.08.28
+##div[id="recommend"]
+##div[class="pop-autoapp"]
+##div[class="bbs_container right"]
+##div[class="backToTop"]
+
+
+
+
+
