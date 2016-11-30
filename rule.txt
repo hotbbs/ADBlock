@@ -67,12 +67,12 @@
 
 
 !ithome.com
-!更新日期：2016.08.24
+!更新日期：2016.11.30
 /baidu.com/
 ##div#tt50
 ##div#side_func
 ##div[class="focus_area"]
-##a[href="http://m.ithome.com/ithome/"]
+##a[href="http://m.ruanmei.com/"]
 ##div[class="sidebar"]
 ##div[class="shareto"]
 ##div[class="related_post"]
