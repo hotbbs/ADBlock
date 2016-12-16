@@ -43,8 +43,8 @@
 
 
 !CNBeta.com
-!更新日期：2016.11.07
-/weibo.com|tanx.com|baidu.com|1c8da88ce2274ff.gif/
+!更新日期：2016.12.16
+/weibo.com|tanx.com|baidu.com|fe25956add33ea7.png/
 ##div[class="cb_box hd_main"]
 ##div[class="fr"]
 ##div[id="left_art"]
