@@ -1,180 +1,178 @@
 [Adblock Plus 2.0]
-!当前过滤规则需要手动复制到maxthon里相应的ABP规则中
+!过滤规则订阅地址： https://github.com/hotbbs/ADBlock/raw/master/rule.txt
 !作者：天涯人
 
 
 !12306.cn
 !更新日期：2016.08.22
-##div#top
-##div[id="appDown"]
+12306.cn##div#top
+12306.cn##div[id="appDown"]
 
 
 !163.com
 !更新日期：2016.09.05
 /bobo|love.163.com/
-##div[class="post_header"]
-##div[class^="ns_area index_top_ad"]
-##div[id="epContentRight"]
-##div[id="post_recommend"]
-##div[class="post_next_post_wrap"]
-##div[class="newsapp-qrcode"]
-##div[class^="mod_ad_toutu"]
-##div[class="mod_top_news_ad"]
-##div[class$=" mod_ad_r"]
-##div[class="ns_sidebar none"]
-##div[class="mt35 mod_bobo"]
-##a[class="newsapp-qrcode"]
-##a[class="ns-side-totop"]
-##iframe[height="220"]
-##div[class="post_btmshare"]
-##div[class="post_end_ad"]
-##div[class="post_content_endad"]
-##div[id="postsearch"]
-##div[class="wrapper top-banner"]
-##div[class="sidebar"]
-##div[class="bottom-news"]
-##iframe[src^="http://www.bobo.com/"]
-##div[class="post_topshare"]
-##div[class="ep-keywords clearfix"]
-##div[class^="ns_area mt40 index_bottom_ad"]
-##div[class="ns_area index_media"]
-##div[class="ep-love"]
-##a[class="newsdata_prev fixed_data_show"]
-##a[class="newsdata_next fixed_data_show"]
+163.com##div[class="post_header"]
+163.com##div[class^="ns_area index_top_ad"]
+163.com##div[id="epContentRight"]
+163.com##div[id="post_recommend"]
+163.com##div[class="post_next_post_wrap"]
+163.com##div[class="newsapp-qrcode"]
+163.com##div[class^="mod_ad_toutu"]
+163.com##div[class="mod_top_news_ad"]
+163.com##div[class$=" mod_ad_r"]
+163.com##div[class="ns_sidebar none"]
+163.com##div[class="mt35 mod_bobo"]
+163.com##a[class="newsapp-qrcode"]
+163.com##a[class="ns-side-totop"]
+163.com##iframe[height="220"]
+163.com##div[class="post_btmshare"]
+163.com##div[class="post_end_ad"]
+163.com##div[class="post_content_endad"]
+163.com##div[id="postsearch"]
+163.com##div[class="wrapper top-banner"]
+163.com##div[class="sidebar"]
+163.com##div[class="bottom-news"]
+163.com##iframe[src^="http://www.bobo.com/"]
+163.com##div[class="post_topshare"]
+163.com##div[class="ep-keywords clearfix"]
+163.com##div[class^="ns_area mt40 index_bottom_ad"]
+163.com##div[class="ns_area index_media"]
+163.com##div[class="ep-love"]
+163.com##a[class="newsdata_prev fixed_data_show"]
+163.com##a[class="newsdata_next fixed_data_show"]
 
 
 !CNBeta.com
 !更新日期：2016.12.29
-/weibo.com|tanx.com|baidu.com|a3ca82df73a04e0.png/
-##div[class="cb_box hd_main"]
-##div[class="fr"]
-##div[id="left_art"]
-##div[class="goToTop"]
-##section[class="mt5 cb_box"]
-##section[class="mt5 cber hotcomments"]
-##div[id="jzl_reco"]
+/tanx.com|a3ca82df73a04e0.png/
+CNBeta.com##div[class="cb_box hd_main"]
+CNBeta.com##div[class="fr"]
+CNBeta.com##div[id="left_art"]
+CNBeta.com##div[class="goToTop"]
+CNBeta.com##section[class="mt5 cb_box"]
+CNBeta.com##section[class="mt5 cber hotcomments"]
+CNBeta.com##div[id="jzl_reco"]
 
 
 !ifeng.com
 !更新日期：2016.09.19
-##div[class="right"]
-##div[class^="space"]
-##div[class="adbox02 ss_none"]
-##div[class^="go_bank fixed "]
-##div[class="box02"]
-##div[id="wx"]
-##div[class="next ss_none"]
-##div[class="nextWrap"]
+ifeng.com##div[class="right"]
+ifeng.com##div[class^="space"]
+ifeng.com##div[class="adbox02 ss_none"]
+ifeng.com##div[class^="go_bank fixed "]
+ifeng.com##div[class="box02"]
+ifeng.com##div[id="wx"]
+ifeng.com##div[class="next ss_none"]
+ifeng.com##div[class="nextWrap"]
 
 
 !ithome.com
 !更新日期：2016.11.30
-/baidu.com/
-##div#tt50
-##div#side_func
-##div[class="focus_area"]
-##a[href="http://m.ruanmei.com/"]
-##div[class="sidebar"]
-##div[class="shareto"]
-##div[class="related_post"]
-##div[class="rela-post"]
-##div[class="newsgrade"]
-##div[class="con_2"]
-##div[class="bx2"]
+ithome.com##div#tt50
+ithome.com##div#side_func
+ithome.com##div[class="focus_area"]
+ithome.com##a[href="http://m.ruanmei.com/"]
+ithome.com##div[class="sidebar"]
+ithome.com##div[class="shareto"]
+ithome.com##div[class="related_post"]
+ithome.com##div[class="rela-post"]
+ithome.com##div[class="newsgrade"]
+ithome.com##div[class="con_2"]
+ithome.com##div[class="bx2"]
 
 
 !maxthon.com
 !更新日期：2016.10.20
-##ul[id="hot_nav_list"]
-##div[id="quick_dial_hot_site"]
+maxthon.com##ul[id="hot_nav_list"]
+maxthon.com##div[id="quick_dial_hot_site"]
 
 
 !Mydrivers.com
 !更新日期：2016.10.10
-/2345.com|baidu/
-##table[width="998"]
-##div[class="news_right"]
-##div[class="btnPrev"]
-##div[class="btnNext"]
-##div[class="weixin"]
-##div[class="news_xg"]
-##div[class="adggg1"]
-##div[style="width:641px; height:30px;"]
-##p[class="news_bq"]
-##table[width="100%"]
-##div[style="height:50px;"]
-##div[class="shidian"]
-##div[class="zcdf"]
+/2345.com/
+Mydrivers.com##table[width="998"]
+Mydrivers.com##div[class="news_right"]
+Mydrivers.com##div[class="btnPrev"]
+Mydrivers.com##div[class="btnNext"]
+Mydrivers.com##div[class="weixin"]
+Mydrivers.com##div[class="news_xg"]
+Mydrivers.com##div[class="adggg1"]
+Mydrivers.com##div[style="width:641px; height:30px;"]
+Mydrivers.com##p[class="news_bq"]
+Mydrivers.com##table[width="100%"]
+Mydrivers.com##div[style="height:50px;"]
+Mydrivers.com##div[class="shidian"]
+Mydrivers.com##div[class="zcdf"]
 
 
 !qq.com
 !更新日期：2016.08.25
-##div[class="img-box f-video-wrap"]
-##div[class="ck-act"]
+qq.com##div[class="img-box f-video-wrap"]
+qq.com##div[class="ck-act"]
 
 
 !sina.com.cn
 !更新日期：2016.08.23
-/weibo/
-##div[class="right"]
-##div[class="desktop-side-tool CCC-float-bar-right"]
-##div[id="relatedNewsWrap"]
-##div[class="article-info clearfix"]
-##div[class="bshare-custom topShareBox"]
-##div[id="moodcounter"]
-##div[id="siteSearch"]
-##div[class^="side-btns-"]
-##div[class="side"]
-##div[id="CCCFloatBarRight"]
-##div[class="article-video"]
-##ul[class="love-list"]
-##div[class="share-layout"]
-##h3[class="s-tit"]
-##div[class="article-footer clear"]
-##div[class="wrap"]>iframe[width="1000"]
-##div[class="fixed-nav"]
+sina.com.cn##div[class="right"]
+sina.com.cn##div[class="desktop-side-tool CCC-float-bar-right"]
+sina.com.cn##div[id="relatedNewsWrap"]
+sina.com.cn##div[class="article-info clearfix"]
+sina.com.cn##div[class="bshare-custom topShareBox"]
+sina.com.cn##div[id="moodcounter"]
+sina.com.cn##div[id="siteSearch"]
+sina.com.cn##div[class^="side-btns-"]
+sina.com.cn##div[class="side"]
+sina.com.cn##div[id="CCCFloatBarRight"]
+sina.com.cn##div[class="article-video"]
+sina.com.cn##ul[class="love-list"]
+sina.com.cn##div[class="share-layout"]
+sina.com.cn##h3[class="s-tit"]
+sina.com.cn##div[class="article-footer clear"]
+sina.com.cn##div[class="wrap"]>iframe[width="1000"]
+sina.com.cn##div[class="fixed-nav"]
 
 
 !sohu.com
 !更新日期：2016.08.22
-##div[class="rightbar-wrapper grid-300"]
-##div[class="module-cmt-float-bar"]
-##div[id="newsCommentBar"]
-##iframe[width="620"]
-##div[class="share clear lg"]
-##div[class="tagHotg"]
-##div[class="mutu clear"]
-##div[class="function"]
-##div[class="layout-c-2-2"]
-##div[class="qf-video clear"]
+sohu.com##div[class="rightbar-wrapper grid-300"]
+sohu.com##div[class="module-cmt-float-bar"]
+sohu.com##div[id="newsCommentBar"]
+sohu.com##iframe[width="620"]
+sohu.com##div[class="share clear lg"]
+sohu.com##div[class="tagHotg"]
+sohu.com##div[class="mutu clear"]
+sohu.com##div[class="function"]
+sohu.com##div[class="layout-c-2-2"]
+sohu.com##div[class="qf-video clear"]
 
 
 !thepiratebay.org
 !更新日期：2016.08.25
 /traffic.adxprts.com/
-##iframe
-##div[style="clear:both;"]
+thepiratebay##iframe
+thepiratebay##div[style="clear:both;"]
 
 
 !weather.com.cn
 !更新日期：2016.10.10
 /wrating.com|amazon/
-##div[class="topad_bg"]
-##div[class="top_contents clearfix"]
-##div[class="col_2 right"]
-##div[class="content_wx"]
-##div[class="rednews rednews1"]
-##div[class="relatednews"]
-##div[class="right fr"]
-##div[id="ab_yjfk"]
+weather.com.cn##div[class="topad_bg"]
+weather.com.cn##div[class="top_contents clearfix"]
+weather.com.cn##div[class="col_2 right"]
+weather.com.cn##div[class="content_wx"]
+weather.com.cn##div[class="rednews rednews1"]
+weather.com.cn##div[class="relatednews"]
+weather.com.cn##div[class="right fr"]
+weather.com.cn##div[id="ab_yjfk"]
 
 
 !zhibo8.cc
 !更新日期：2016.08.28
-##div[id="recommend"]
-##div[class="pop-autoapp"]
-##div[class="bbs_container right"]
-##div[class="backToTop"]
+zhibo8.cc##div[id="recommend"]
+zhibo8.cc##div[class="pop-autoapp"]
+zhibo8.cc##div[class="bbs_container right"]
+zhibo8.cc##div[class="backToTop"]
 
 
 
