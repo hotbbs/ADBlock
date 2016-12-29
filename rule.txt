@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 !当前过滤规则需要手动复制到maxthon里相应的ABP规则中
 !作者：天涯人
 
