@@ -45,14 +45,17 @@
 
 !CNBeta.com
 !更新日期：2016.12.29
-!/weibo.com|tanx.com|baidu.com|1c8da88ce2274ff.gif/
-CNBeta.com##div[class="cb_box hd_main"]
-CNBeta.com##div[class="fr"]
-CNBeta.com##div[id="left_art"]
-CNBeta.com##div[class="goToTop"]
-CNBeta.com##section[class="mt5 cb_box"]
-CNBeta.com##section[class="mt5 cber hotcomments"]
-CNBeta.com##div[id="jzl_reco"]
+!/weibo.com|tanx.com|baidu.com/
+CNBeta.com##div[class="topContent"]
+CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
+CNBeta.com##div[class="tks"]
+CNBeta.com##div[class="cnbeta-side-wrapper poll-box"]
+CNBeta.com##h3[class="cnbeta-side-blue-title"]
+CNBeta.com##div[class^="cber-hot-tabs"]
+CNBeta.com##div[class="cnbeta-update-list-article"]
+CNBeta.com##div[id="relation_box"]
+CNBeta.com##div[class="cnbeta-article-vote-tags"]
+CNBeta.com##div[class="cnbeta-article-latest"]
 
 
 !ifeng.com
