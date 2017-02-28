@@ -109,6 +109,8 @@ Mydrivers.com##div[style="height:50px;"]
 Mydrivers.com##div[class="shidian"]
 Mydrivers.com##div[class="zcdf"]
 Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
+Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
+
 
 !qq.com
 !更新日期：2016.08.25
