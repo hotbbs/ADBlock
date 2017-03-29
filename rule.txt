@@ -110,6 +110,7 @@ Mydrivers.com##div[class="shidian"]
 Mydrivers.com##div[class="zcdf"]
 Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
 Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
+Mydrivers.com##div[id="a_showhotnews_list_dia"]
 
 
 !qq.com
