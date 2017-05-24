@@ -87,8 +87,9 @@ ithome.com##div[class="bx2"]
 
 
 !maxthon.com
-!更新日期：2016.10.20
+!更新日期：2017.05.24
 maxthon.com##ul#top>li
+maxthon.com##div[class="nav-header clearfix"]
 
 
 !Mydrivers.com
