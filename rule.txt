@@ -119,7 +119,7 @@ muchong.com##body > div.bg > div:nth-child(17) > table:nth-child(5)
 
 
 !Mydrivers.com
-!更新日期：2016.10.10
+!更新日期：2017.07.03
 /2345.com|baidu/$domain=mydrivers.com
 Mydrivers.com##table[width="998"]
 Mydrivers.com##div[class="news_right"]
@@ -199,7 +199,7 @@ txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 
 
 !weather.com.cn
-!更新日期：2016.10.10
+!更新日期：2017.07.03
 /wrating.com|amazon/$domain=weather.com.cn
 weather.com.cn##div[class="topad_bg"]
 weather.com.cn##div[class="top_contents clearfix"]
@@ -219,6 +219,8 @@ zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 
 
-/cpyc2017/$domain=zit.edu.cn
+!zd423.com
+!更新日期：2017.07.03
+/cnzz|baidu/$domain=zd423.com
 
 
