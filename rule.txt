@@ -224,6 +224,6 @@ zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 
 
-/cpyc2017/$domian=zit.edu.cn
+/cpyc2017/*$domian=zit.edu.cn
 
 
