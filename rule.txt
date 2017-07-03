@@ -11,7 +11,9 @@
 
 !163.com
 !更新日期：2017.07.03
-!/bobo|love.163.com/
+*/bobo/*$domian=163.com
+*/love.163.com/*$domian=163.com
+*/cnzz|51.la/*$domian=163.com
 163.com##div[class="post_header"]
 163.com##div[class^="ns_area index_top_ad"]
 163.com##div[id="epContentRight"]
