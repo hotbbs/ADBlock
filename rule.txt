@@ -224,3 +224,10 @@ zhibo8.cc##div[class="backToTop"]
 /cnzz|baidu/$domain=zdfans.com
 
 
+!91porn.com
+!更新日期：2017.07.03
+/51.la|new2.gif/$domain=91porn.com
+91porn.com##iframe[height="100"]
+91porn.com##div[id="topbar"]
+91porn.com##font[color="red"]
+91porn.com###headnav > table > tbody > tr:nth-child(2) > td
