@@ -11,10 +11,7 @@
 
 !163.com
 !更新日期：2017.07.03
-*/bobo/*$domian=163.com
-*/love.163.com/*$domian=163.com
-*/cnzz/*$domian=163.com
-*/51.la/*$domian=163.com
+/bobo|ove.163.com|cnzz|51.la/$domain=163.com
 163.com##div[class="post_header"]
 163.com##div[class^="ns_area index_top_ad"]
 163.com##div[id="epContentRight"]
@@ -49,9 +46,7 @@
 
 !CNBeta.com
 !更新日期：2017.07.03
-*/weibo.com/*$domian=cnbeta.com
-*/tanx.com/*$domian=cnbeta.com
-*/baidu.com/*$domian=cnbeta.com
+/weibo.com|tanx.com|baidu.com/$domain=cnbeta.com
 CNBeta.com##div[class="topContent"]
 CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
 CNBeta.com##div[class="tks"]
@@ -91,7 +86,7 @@ ifeng.com##div[class="nextWrap"]
 
 !ithome.com
 !更新日期：2017.07.03
-*/baidu.com/*$domian=ithome.com
+/baidu.com/$domain=ithome.com
 ithome.com##div#tt50
 ithome.com##div#side_func
 ithome.com##div[class="focus_area"]
@@ -125,7 +120,7 @@ muchong.com##body > div.bg > div:nth-child(17) > table:nth-child(5)
 
 !Mydrivers.com
 !更新日期：2016.10.10
-!/2345.com|baidu/
+/2345.com|baidu/$domain=mydrivers.com
 Mydrivers.com##table[width="998"]
 Mydrivers.com##div[class="news_right"]
 Mydrivers.com##div[class="btnPrev"]
@@ -153,7 +148,7 @@ qq.com##div[class="img-box f-video-wrap play"]
 
 !sina.com.cn
 !更新日期：2017.07.03
-*/weibo/*$domian=sina.com.cn
+/weibo/$domain=sina.com.cn
 sina.com.cn##div[class="right"]
 sina.com.cn##div[class="desktop-side-tool CCC-float-bar-right"]
 sina.com.cn##div[id="relatedNewsWrap"]
@@ -190,7 +185,7 @@ sohu.com##div[class="qf-video clear"]
 !thepiratebay.org
 !更新日期：2017.07.03
 
-*/traffic.adxprts.com/*$domian=thepiratebay
+/traffic.adxprts.com/$domain=thepiratebay
 thepiratebay##iframe
 thepiratebay##div[style="clear:both;"]
 thepiratebay##div[class="ads"]
@@ -205,7 +200,7 @@ txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 
 !weather.com.cn
 !更新日期：2016.10.10
-!/wrating.com|amazon/
+/wrating.com|amazon/$domain=weather.com.cn
 weather.com.cn##div[class="topad_bg"]
 weather.com.cn##div[class="top_contents clearfix"]
 weather.com.cn##div[class="col_2 right"]
@@ -224,6 +219,6 @@ zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 
 
-cpyc2017$domian=zit.edu.cn
+cpyc2017$domain=zit.edu.cn
 
 
