@@ -48,7 +48,7 @@
 
 !CNBeta.com
 !更新日期：2017.07.03
-!/weibo.com|tanx.com|baidu.com/
+*/weibo.com|tanx.com|baidu.com/*$domian=cnbeta.com
 CNBeta.com##div[class="topContent"]
 CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
 CNBeta.com##div[class="tks"]
@@ -87,7 +87,7 @@ ifeng.com##div[class="nextWrap"]
 
 !ithome.com
 !更新日期：2017.07.03
-!/baidu.com/
+*/baidu.com/*$domian=ithome.com
 ithome.com##div#tt50
 ithome.com##div#side_func
 ithome.com##div[class="focus_area"]
@@ -184,8 +184,9 @@ sohu.com##div[class="qf-video clear"]
 
 
 !thepiratebay.org
-!更新日期：2016.08.25
-!/traffic.adxprts.com/
+!更新日期：2017.07.03
+
+*/traffic.adxprts.com/*$domian=thepiratebay
 thepiratebay##iframe
 thepiratebay##div[style="clear:both;"]
 thepiratebay##div[class="ads"]
@@ -196,6 +197,7 @@ thepiratebay##iframe
 !更新日期：2017.07.03
 txzqw.cc##div[id="ads_r_tpc"]
 txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
+
 
 !weather.com.cn
 !更新日期：2016.10.10
