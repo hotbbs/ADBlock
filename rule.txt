@@ -10,7 +10,7 @@
 
 
 !163.com
-!更新日期：2016.09.05
+!更新日期：2017.07.03
 !/bobo|love.163.com/
 163.com##div[class="post_header"]
 163.com##div[class^="ns_area index_top_ad"]
@@ -41,10 +41,11 @@
 163.com##div[class="ep-love"]
 163.com##a[class="newsdata_prev fixed_data_show"]
 163.com##a[class="newsdata_next fixed_data_show"]
+163.co##div[id="post_comment"]
 
 
 !CNBeta.com
-!更新日期：2016.12.29
+!更新日期：2017.07.03
 !/weibo.com|tanx.com|baidu.com/
 CNBeta.com##div[class="topContent"]
 CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
@@ -56,6 +57,14 @@ CNBeta.com##div[class="cnbeta-update-list-article"]
 CNBeta.com##div[id="relation_box"]
 CNBeta.com##div[class="cnbeta-article-vote-tags"]
 CNBeta.com##div[class="cnbeta-article-latest"]
+CNBeta.com##div[class="cnbeta-side-sponsor mt5"]
+CNBeta.com##div[id="cb_share"]
+CNBeta.com##body > div.main-wrap > div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBanner > div > div
+CNBeta.com##body > div.main-wrap > div.cnbeta-update > div > div.cnbeta-home-side > div:nth-child(1)
+CNBeta.com##a[class="page-last"]
+CNBeta.com##a[class="page-next"]
+CNBeta.com##div[class="page-last"]
+CNBeta.com##div[style*="z-index:99999"]
 
 
 !ifeng.com
@@ -71,7 +80,7 @@ ifeng.com##div[class="nextWrap"]
 
 
 !ithome.com
-!更新日期：2016.11.30
+!更新日期：2017.07.03
 !/baidu.com/
 ithome.com##div#tt50
 ithome.com##div#side_func
@@ -84,12 +93,24 @@ ithome.com##div[class="rela-post"]
 ithome.com##div[class="newsgrade"]
 ithome.com##div[class="con_2"]
 ithome.com##div[class="bx2"]
+ithome.com###con > div:nth-child(3) > a
 
 
 !maxthon.com
 !更新日期：2017.05.24
 maxthon.com##ul#top>li
 maxthon.com##div[class="nav-header clearfix"]
+
+!muchong.com
+!更新日期：2017.07.03
+muchong.com##div[class="wrapper header_table"]
+muchong.com##body > div.bg > div:nth-child(6) > div > h2 > table > tbody > tr > td:nth-child(2)
+muchong.com##body > div.bg > div:nth-child(7) > div > h2 > table > tbody > tr > td:nth-child(2)
+muchong.com##div[id="xd_popbox"]
+muchong.com###postcomment > div > table
+muchong.com##body > div.bg > footer > div.wrapper
+muchong.com##body > div.bg > div:nth-child(12) > table
+muchong.com##body > div.bg > div:nth-child(17) > table:nth-child(5)
 
 
 !Mydrivers.com
@@ -114,9 +135,10 @@ Mydrivers.com##div[id="a_showhotnews_list_dia"]
 
 
 !qq.com
-!更新日期：2016.08.25
+!更新日期：2017.07.03
 qq.com##div[class="img-box f-video-wrap"]
 qq.com##div[class="ck-act"]
+qq.com##div[class="img-box f-video-wrap play"]
 
 
 !sina.com.cn
@@ -160,7 +182,14 @@ sohu.com##div[class="qf-video clear"]
 !/traffic.adxprts.com/
 thepiratebay##iframe
 thepiratebay##div[style="clear:both;"]
+thepiratebay##div[class="ads"]
+thepiratebay##iframe
 
+
+!txzqw.cc
+!更新日期：2017.07.03
+txzqw.cc##div[id="ads_r_tpc"]
+txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 
 !weather.com.cn
 !更新日期：2016.10.10
