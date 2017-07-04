@@ -222,6 +222,8 @@ zhibo8.cc##div[class="backToTop"]
 !zdfans.com
 !更新日期：2017.07.03
 /cnzz|baidu/$domain=zdfans.com
+zdfans.com###hasfixed > div.wrapper > div.sidebar > a:nth-child(1)
+zdfans.com###hasfixed > div.wrapper > div.sidebar > a:nth-child(2)
 
 
 !91porn.com
