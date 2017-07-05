@@ -169,7 +169,7 @@ sina.com.cn##div[class="fixed-nav"]
 
 
 !sohu.com
-!更新日期：2016.08.22
+!更新日期：2017.07.05
 sohu.com##div[class="rightbar-wrapper grid-300"]
 sohu.com##div[class="module-cmt-float-bar"]
 sohu.com##div[id="newsCommentBar"]
@@ -180,8 +180,8 @@ sohu.com##div[class="mutu clear"]
 sohu.com##div[class="function"]
 sohu.com##div[class="layout-c-2-2"]
 sohu.com##div[class="qf-video clear"]
-sohu.comsohu.comsohu.com###article-container > div.column.left
-sohu.comsohu.com###right-side-bar
+sohu.com###article-container > div.column.left
+sohu.com###right-side-bar
 sohu.com##body > div.wrapper-box > div.sohu-khd
 sohu.com###sogou-words
 sohu.com###article-container > div.left.main > div.groom-read
