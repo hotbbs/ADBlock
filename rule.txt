@@ -180,6 +180,11 @@ sohu.com##div[class="mutu clear"]
 sohu.com##div[class="function"]
 sohu.com##div[class="layout-c-2-2"]
 sohu.com##div[class="qf-video clear"]
+sohu.comsohu.comsohu.com###article-container > div.column.left
+sohu.comsohu.com###right-side-bar
+sohu.com##body > div.wrapper-box > div.sohu-khd
+sohu.com###sogou-words
+sohu.com###article-container > div.left.main > div.groom-read
 
 
 !thepiratebay.org
