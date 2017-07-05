@@ -170,16 +170,7 @@ sina.com.cn##div[class="fixed-nav"]
 
 !sohu.com
 !更新日期：2016.08.22
-sohu.com##div[class="rightbar-wrapper grid-300"]
-sohu.com##div[class="module-cmt-float-bar"]
-sohu.com##div[id="newsCommentBar"]
-sohu.com##iframe[width="620"]
-sohu.com##div[class="share clear lg"]
-sohu.com##div[class="tagHotg"]
-sohu.com##div[class="mutu clear"]
-sohu.com##div[class="function"]
-sohu.com##div[class="layout-c-2-2"]
-sohu.com##div[class="qf-video clear"]
+
 
 
 !thepiratebay.org
