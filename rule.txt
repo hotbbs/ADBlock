@@ -189,11 +189,10 @@ sohu.com###article-container > div.left.main > div.groom-read
 
 !thepiratebay.org
 !更新日期：2017.07.03
-/traffic.adxprts.com|exoclick.com/$domain=thepiratebay
-thepiratebay##iframe
-thepiratebay##div[style="clear:both;"]
-thepiratebay##div[class="ads"]
-thepiratebay##iframe
+/traffic.adxprts.com|exoclick.com|mellowads.com/$domain=thepiratebay.org
+thepiratebay.org##iframe
+thepiratebay.org##div[style="clear:both;"]
+thepiratebay.org##div[class="ads"]
 
 
 !txzqw.cc
