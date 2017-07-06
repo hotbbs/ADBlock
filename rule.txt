@@ -189,8 +189,7 @@ sohu.com###article-container > div.left.main > div.groom-read
 
 !thepiratebay.org
 !更新日期：2017.07.03
-
-/traffic.adxprts.com/$domain=thepiratebay
+/traffic.adxprts.com|exoclick.com/$domain=thepiratebay
 thepiratebay##iframe
 thepiratebay##div[style="clear:both;"]
 thepiratebay##div[class="ads"]
