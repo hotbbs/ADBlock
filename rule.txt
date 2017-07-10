@@ -107,7 +107,7 @@ maxthon.com##ul#top>li
 maxthon.com##div[class="nav-header clearfix"]
 
 !muchong.com
-!更新日期：2017.07.03
+!更新日期：2017.07.10
 muchong.com##div[class="wrapper header_table"]
 muchong.com##body > div.bg > div:nth-child(6) > div > h2 > table > tbody > tr > td:nth-child(2)
 muchong.com##body > div.bg > div:nth-child(7) > div > h2 > table > tbody > tr > td:nth-child(2)
@@ -116,6 +116,13 @@ muchong.com###postcomment > div > table
 muchong.com##body > div.bg > footer > div.wrapper
 muchong.com##body > div.bg > div:nth-child(12) > table
 muchong.com##body > div.bg > div:nth-child(17) > table:nth-child(5)
+muchong.com##h2[class="xmc_title xmc_blue xmc_line_top xmc_line_lr"]
+muchong.com##div[class="solid forum_info xmc_line_lrb"]
+muchong.com##div[class="user_Rank bg_global  bg_global_padding"]
+muchong.com##div[class="forum_Post bg_global  bg_global_padding"]
+muchong.com##div[class="forum_explan bg_global  bg_global_padding"]
+muchong.com##div[class="forum_Post_index bg_global xmc_line_lr"]
+muchong.com##div[class="forum_Post bg_global"]
 
 
 !Mydrivers.com
@@ -188,11 +195,12 @@ sohu.com###article-container > div.left.main > div.groom-read
 
 
 !thepiratebay.org
-!更新日期：2017.07.03
+!更新日期：2017.07.10
 /traffic.adxprts.com|exoclick.com|mellowads.com/$domain=thepiratebay.org
 thepiratebay.org##iframe
 thepiratebay.org##div[style="clear:both;"]
 thepiratebay.org##div[class="ads"]
+thepiratebay.org##div[id="sky-right"]
 
 
 !txzqw.cc
