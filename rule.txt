@@ -99,7 +99,7 @@ ithome.com##div[class="newsgrade"]
 ithome.com##div[class="con_2"]
 ithome.com##div[class="bx2"]
 ithome.com###con > div:nth-child(3) > a
-ithome.com##iframe[class="dajia"]
+ithome.com##div[class="dajia"]
 
 
 !maxthon.com
