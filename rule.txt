@@ -85,7 +85,7 @@ ifeng.com##div[class="nextWrap"]
 
 
 !ithome.com
-!更新日期：2017.008.25
+!更新日期：2017.09.03
 /baidu.com/$domain=ithome.com
 ithome.com##div#tt50
 ithome.com##div#side_func
@@ -100,6 +100,7 @@ ithome.com##div[class="con_2"]
 ithome.com##div[class="bx2"]
 ithome.com###con > div:nth-child(3) > a
 ithome.com###wrapper > div.content.fl > iframe.dajia
+ithome.com###con > div:nth-child(4)
 
 
 !maxthon.com
@@ -152,6 +153,7 @@ Mydrivers.com##div[id="a_showhotnews_list_dia"]
 qq.com##div[class="img-box f-video-wrap"]
 qq.com##div[class="ck-act"]
 qq.com##div[class="img-box f-video-wrap play"]
+qq.com##body > div.live-box.hidden > div.aside
 
 
 !sina.com.cn
