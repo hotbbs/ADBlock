@@ -100,6 +100,7 @@ ithome.com##div[class="con_2"]
 ithome.com##div[class="bx2"]
 ithome.com###con > div:nth-child(3) > a
 ithome.com###wrapper > div.content.fl > iframe.dajia
+ithome.com##div[style="margin-top:2px"]
 
 
 !maxthon.com
