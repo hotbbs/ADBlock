@@ -157,7 +157,7 @@ qq.com##body > div.live-box.hidden > div.aside
 
 
 !sina.com.cn
-!更新日期：2017.07.03
+!更新日期：2017.09.06
 /weibo/$domain=sina.com.cn
 sina.com.cn##div[class="right"]
 sina.com.cn##div[class="desktop-side-tool CCC-float-bar-right"]
@@ -176,6 +176,7 @@ sina.com.cn##h3[class="s-tit"]
 sina.com.cn##div[class="article-footer clear"]
 sina.com.cn##div[class="wrap"]>iframe[width="1000"]
 sina.com.cn##div[class="fixed-nav"]
+sina.com.cn###pl_side
 
 
 !sohu.com
