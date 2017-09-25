@@ -214,8 +214,15 @@ txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 
 
 !weather.com.cn
-!更新日期：2017.07.03
-
+!更新日期：2017.09.25
+/wrating.com|amazon/$domain=weather.com.cn
+weather.com.cn##div[class="top_contents clearfix"]
+weather.com.cn##div[class="col_2 right"]
+weather.com.cn##div[class="content_wx"]
+weather.com.cn##div[class="rednews rednews1"]
+weather.com.cn##div[class="relatednews"]
+weather.com.cn##div[class="right fr"]
+weather.com.cn##div[id="ab_yjfk"]
 
 
 !zhibo8.cc
