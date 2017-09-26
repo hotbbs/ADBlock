@@ -45,7 +45,7 @@
 
 
 !CNBeta.com
-!更新日期：2017.07.03
+!更新日期：2017.09.26
 /weibo.com|tanx.com|baidu.com/$domain=cnbeta.com
 CNBeta.com##div[class="topContent"]
 CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
@@ -66,6 +66,7 @@ CNBeta.com##a[class="page-next"]
 CNBeta.com##div[class="page-last"]
 CNBeta.com##div[style*="z-index:99999"]
 CNBeta.com##div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBanner > div
+CNBeta.com###upcoming_box
 
 
 !hdscg.com
