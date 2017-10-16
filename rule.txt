@@ -41,7 +41,9 @@
 163.com##div[class="ep-love"]
 163.com##a[class="newsdata_prev fixed_data_show"]
 163.com##a[class="newsdata_next fixed_data_show"]
-163.co##div[id="post_comment"]
+163.com##div[id="post_comment"]
+163.com##body > div.gallery > div.endpage.cf > div.endpage-main > div.endpage-btm.endpage-btm-ad
+163.com##body > div.gallery > div.endpage.cf > div.endpage-main > a
 
 
 !CNBeta.com
@@ -248,6 +250,7 @@ zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 !91porn.com
 !更新日期：2017.07.03
 /51.la|new2.gif/$domain=91porn.com
+/cnzz|viidii.info/$domain=t66y.com
 91porn.com##iframe[height="100"]
 91porn.com##div[id="topbar"]
 91porn.com##font[color="red"]
