@@ -250,7 +250,7 @@ zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 !91porn.com
 !更新日期：2017.07.03
 /51.la|new2.gif/$domain=91porn.com
-/cnzz|viidii.info/$domain=t66y.com
+/cnzz/$domain=t66y.com
 91porn.com##iframe[height="100"]
 91porn.com##div[id="topbar"]
 91porn.com##font[color="red"]
