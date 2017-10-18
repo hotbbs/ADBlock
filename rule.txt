@@ -215,6 +215,7 @@ thepiratebay.org##div[id="sky-right"]
 !更新日期：2017.07.03
 txzqw.cc##div[id="ads_r_tpc"]
 txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
+txzqw.cc###nav-operate > table
 
 
 !weather.com.cn
