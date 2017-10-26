@@ -231,11 +231,12 @@ weather.com.cn##div[id="ab_yjfk"]
 
 
 !zhibo8.cc
-!更新日期：2016.08.28
+!更新日期：2017.10.26
 zhibo8.cc##div[id="recommend"]
 zhibo8.cc##div[class="pop-autoapp"]
 zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
+zhibo8.cc###pl_box
 
 
 !zdfans.com
