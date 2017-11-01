@@ -71,10 +71,6 @@ CNBeta.com##div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBann
 CNBeta.com###upcoming_box
 
 
-!hdscg.com
-!更新日期：2017.07.03
-hdscg.com###hd > div:nth-child(3) > div:nth-child(6)
-
 !ifeng.com
 !更新日期：2016.09.19
 ifeng.com##div[class="right"]
