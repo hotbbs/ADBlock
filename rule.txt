@@ -68,7 +68,8 @@ CNBeta.com##a[class="page-next"]
 CNBeta.com##div[class="page-last"]
 CNBeta.com##div[style*="z-index:99999"]
 CNBeta.com##div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBanner > div
-CNBeta.com###upcoming_box
+CNBeta.com##upcoming_box
+CNBeta.com##body > div.main-wrap > div.cnbeta-article-wrapper > div.cnbeta-update > div.w1200 > div.cnbeta-article > div.cnbeta-article-body > div.tac > div.cbv810
 
 
 !ifeng.com
