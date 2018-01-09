@@ -155,6 +155,8 @@ qq.com##div[class="ck-act"]
 qq.com##div[class="img-box f-video-wrap play"]
 qq.com##body > div.live-box.hidden > div.aside
 qq.com##body > div.live-box.hidden > div.section > div.props-area
+qq.com###live-box > div > div.main > div.props-area
+qq.com##div[class="kbs-tabs-wrapper aside-tab"]
 
 
 !sina.com.cn
