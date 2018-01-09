@@ -47,7 +47,7 @@
 
 
 !CNBeta.com
-!更新日期：2017.09.26
+!更新日期：2018.01.08
 /weibo.com|tanx.com|baidu.com/$domain=cnbeta.com
 CNBeta.com##div[class="topContent"]
 CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
@@ -149,7 +149,7 @@ Mydrivers.com##div[id="a_showhotnews_list_dia"]
 
 
 !qq.com
-!更新日期：2017.09.27
+!更新日期：2018.01.09
 qq.com##div[class="img-box f-video-wrap"]
 qq.com##div[class="ck-act"]
 qq.com##div[class="img-box f-video-wrap play"]
