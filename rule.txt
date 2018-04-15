@@ -216,6 +216,7 @@ txzqw.cc###banner
 txzqw.cc##div[id="ads_r_tpc"]
 txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 txzqw.cc###nav-operate > table
+*a4be133256b8d9e.gif$domain=txzqw.cc
 
 
 !weather.com.cn
