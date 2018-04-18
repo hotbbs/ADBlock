@@ -210,13 +210,13 @@ thepiratebay.org##div[class="ads"]
 thepiratebay.org##div[id="sky-right"]
 
 
-!txzqw.cc
-!更新日期：2017.07.03
-txzqw.cc###banner
-txzqw.cc##div[id="ads_r_tpc"]
-txzqw.cc##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
-txzqw.cc###nav-operate > table
-*a4be133256b8d9e.gif$domain=txzqw.cc
+!txzqw.me
+!更新日期：2018.04.18
+txzqw.me###banner
+txzqw.me##div[id="ads_r_tpc"]
+txzqw.me##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
+txzqw.me###nav-operate > table
+*a4be133256b8d9e.gif$domain=txzqw.me
 
 
 !weather.com.cn
