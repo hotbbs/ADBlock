@@ -149,14 +149,15 @@ Mydrivers.com##div[id="a_showhotnews_list_dia"]
 
 
 !qq.com
-!更新日期：2018.01.09
+!更新日期：2018.04.19
+/147687710.jpg/$domain=qq.com
 qq.com##div[class="img-box f-video-wrap"]
 qq.com##div[class="ck-act"]
 qq.com##div[class="img-box f-video-wrap play"]
 qq.com##body > div.live-box.hidden > div.aside
 qq.com##body > div.live-box.hidden > div.section > div.props-area
 qq.com###live-box > div > div.main > div.props-area
-qq.com##div[class="kbs-tabs-wrapper aside-tab"]
+!qq.com##div[class="kbs-tabs-wrapper aside-tab"]
 
 
 !sina.com.cn
