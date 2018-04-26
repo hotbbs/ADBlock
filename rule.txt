@@ -212,12 +212,12 @@ thepiratebay.org##div[id="sky-right"]
 
 
 !txzqw.me
-!更新日期：2018.04.18
+!更新日期：2018.04.26
 txzqw.me###banner
 txzqw.me##div[id="ads_r_tpc"]
 txzqw.me##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 txzqw.me###nav-operate > table
-/a4be133256b8d9e.gif/$domain=txzqw.me
+txzqw.me##div[id^="ads_"]
 
 
 !weather.com.cn
