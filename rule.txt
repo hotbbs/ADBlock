@@ -44,6 +44,7 @@
 163.com##div[id="post_comment"]
 163.com##body > div.gallery > div.endpage.cf > div.endpage-main > div.endpage-btm.endpage-btm-ad
 163.com##body > div.gallery > div.endpage.cf > div.endpage-main > a
+163.com##body > div:nth-child(4) > div > div.side-bar
 
 
 !CNBeta.com
