@@ -86,7 +86,7 @@ ifeng.com##div[class="nextWrap"]
 
 
 !ithome.com
-!更新日期：2017.09.04
+!更新日期：2018.07.12
 /baidu.com/$domain=ithome.com
 ithome.com##div#tt50
 ithome.com##div#side_func
