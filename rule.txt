@@ -103,6 +103,7 @@ ithome.com###con > div:nth-child(3) > a
 ithome.com###wrapper > div.content.fl > iframe.dajia
 ithome.com##div[style="margin-top:2px"]
 ithome.com##div[id="maskTop"]
+ithome.com###con > div.con-block > div.rt > div:nth-child(2)
 
 
 !maxthon.com
@@ -149,7 +150,10 @@ Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
 Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
 Mydrivers.com##div[id="a_showhotnews_list_dia"]
 Mydrivers.com##div[class="baidu"]
-
+Mydrivers.com##body > div:nth-child(2)
+Mydrivers.com##body > div:nth-child(8)
+Mydrivers.com###top_2_right2
+Mydrivers.com#body > div:nth-child(16)
 
 !nba.com
 !更新日期：2018.05.08
