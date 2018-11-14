@@ -130,31 +130,7 @@ muchong.com##div[class="forum_Post_index bg_global xmc_line_lr"]
 muchong.com##div[class="forum_Post bg_global"]
 
 
-!Mydrivers.com
-!更新日期：2017.07.03
-/2345.com|baidu/$domain=mydrivers.com
-Mydrivers.com##table[width="998"]
-Mydrivers.com##div[class="news_right"]
-Mydrivers.com##div[class="btnPrev"]
-Mydrivers.com##div[class="btnNext"]
-Mydrivers.com##div[class="weixin"]
-Mydrivers.com##div[class="news_xg"]
-Mydrivers.com##div[class="adggg1"]
-Mydrivers.com##div[style="width:641px; height:30px;"]
-Mydrivers.com##p[class="news_bq"]
-Mydrivers.com##table[width="100%"]
-Mydrivers.com##div[style="height:50px;"]
-Mydrivers.com##div[class="shidian"]
-Mydrivers.com##div[class="zcdf"]
-Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
-Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
-Mydrivers.com##div[id="a_showhotnews_list_dia"]
-Mydrivers.com##div[class="baidu"]
-Mydrivers.com##body > div:nth-child(2)
-Mydrivers.com##body > div:nth-child(8)
-Mydrivers.com###top_2_right2
-Mydrivers.com#body > div:nth-child(16)
-Mydrivers.com##body > div.news_box > div.news_left > div.share
+
 
 !nba.com
 !更新日期：2018.05.08
