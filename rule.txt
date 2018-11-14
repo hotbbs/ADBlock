@@ -154,8 +154,6 @@ Mydrivers.com##body > div:nth-child(2)
 Mydrivers.com##body > div:nth-child(8)
 Mydrivers.com###top_2_right2
 Mydrivers.com#body > div:nth-child(16)
-Mydrivers.com##body > div.news_box > div.news_left > div.news_n > div.news_info > div:nth-child(11)
-Mydrivers.com##body > div.news_box > div.news_left > div.news_n > div.news_info > div:nth-child(12)
 Mydrivers.com##body > div.news_box > div.news_left > div.share
 
 !nba.com
