@@ -243,12 +243,13 @@ weather.com.cn##div[id="ab_yjfk"]
 
 
 !zhibo8.cc
-!更新日期：2017.10.26
+!更新日期：2018.18.17
 zhibo8.cc##div[id="recommend"]
 zhibo8.cc##div[class="pop-autoapp"]
 zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 zhibo8.cc###pl_box
+zhibo8.cc##body > div.container.margin_top_20
 
 
 !zdfans.com
@@ -261,7 +262,7 @@ zdfans.com##div.sidebar > div.widget.my_widget_recent_comments
 zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 
 
-!91porn.com
+!91porn.com && t66y.com
 !更新日期：2017.10.16
 /51.la|new2.gif/$domain=91porn.com
 /cnzz/$domain=t66y.com
