@@ -47,6 +47,13 @@
 163.com##body > div:nth-child(4) > div > div.side-bar
 
 
+!carrotchou.blog
+!更新日期：2018.01.08
+carrotchou.blog##div[class="widget widget_text"]
+carrotchou.blog##div[class="asb-post-footer"]
+carrotchou.blog##div[class="relates relates-thumb"]
+
+
 !CNBeta.com
 !更新日期：2018.01.08
 /weibo.com|tanx.com|baidu.com/$domain=cnbeta.com
@@ -104,6 +111,19 @@ ithome.com###wrapper > div.content.fl > iframe.dajia
 ithome.com##div[style="margin-top:2px"]
 ithome.com##div[id="maskTop"]
 ithome.com###con > div.con-block > div.rt > div:nth-child(2)
+
+
+!landiannews.com
+!更新日期：2018.11.23
+landiannews.com## div.asb.asb-post.asb-post-01
+landiannews.com## div.asb.asb-post.asb-post-02
+landiannews.com## div.asb.asb-post.asb-post-03
+landiannews.com## div.relates.relates-thumb
+landiannews.com##body > section > div.sidebar > div.widget.widget_ui_textasb
+landiannews.com##body > section > div.sidebar > div.widget_text.widget.widget_custom_html.affix-top
+landiannews.com##div[class="widget widget_media_image"]
+landiannews.com##body > section > div.sidebar > div:nth-child(5)
+landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
 
 
 !maxthon.com
