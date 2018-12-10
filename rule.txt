@@ -52,6 +52,7 @@
 carrotchou.blog##div[class="widget widget_text"]
 carrotchou.blog##div[class="asb-post-footer"]
 carrotchou.blog##div[class="relates relates-thumb"]
+carrotchou.blog##div[class^="asb asb-post asb-post-"]
 
 
 !CNBeta.com
