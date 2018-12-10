@@ -126,6 +126,7 @@ landiannews.com##body > section > div.sidebar > div:nth-child(5)
 landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
 landiannews.com##div[class="nivoSlider"]
 landiannews.com##div[class="asb-post-footer"]
+landiannews.com##div[class="widget_text widget widget_custom_html"]
 
 
 !maxthon.com
