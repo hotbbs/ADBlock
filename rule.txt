@@ -124,12 +124,15 @@ landiannews.com##body > section > div.sidebar > div.widget_text.widget.widget_cu
 landiannews.com##div[class="widget widget_media_image"]
 landiannews.com##body > section > div.sidebar > div:nth-child(5)
 landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
+landiannews.com##div[class="nivoSlider"]
+landiannews.com##div[class="asb-post-footer"]
 
 
 !maxthon.com
 !更新日期：2017.05.24
 maxthon.com##ul#top>li
 maxthon.com##div[class="nav-header clearfix"]
+
 
 !muchong.com
 !更新日期：2017.07.10
@@ -148,6 +151,7 @@ muchong.com##div[class="forum_Post bg_global  bg_global_padding"]
 muchong.com##div[class="forum_explan bg_global  bg_global_padding"]
 muchong.com##div[class="forum_Post_index bg_global xmc_line_lr"]
 muchong.com##div[class="forum_Post bg_global"]
+
 
 !Mydrivers.com
 !更新日期：2018.11.29
