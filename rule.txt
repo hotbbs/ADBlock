@@ -46,6 +46,7 @@
 163.com##body > div.gallery > div.endpage.cf > div.endpage-main > a
 163.com##body > div:nth-child(4) > div > div.side-bar
 163.com##div[id^="tcldivtf"]
+163.com##div[class="mod_netes_origina"]
 
 
 !carrotchou.blog
