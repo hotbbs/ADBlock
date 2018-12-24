@@ -10,7 +10,7 @@
 
 
 !163.com
-!更新日期：2017.11.22
+!更新日期：2018.12.24
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
 !163.com##div[class="post_header"]
 163.com##div[class^="ns_area index_top_ad"]
@@ -45,6 +45,7 @@
 163.com##body > div.gallery > div.endpage.cf > div.endpage-main > div.endpage-btm.endpage-btm-ad
 163.com##body > div.gallery > div.endpage.cf > div.endpage-main > a
 163.com##body > div:nth-child(4) > div > div.side-bar
+163.com##div[id^="tcldivtf"]
 
 
 !carrotchou.blog
