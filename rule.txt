@@ -119,7 +119,7 @@ ithome.com###con > div.con-block > div.rt > div:nth-child(2)
 
 
 !landiannews.com
-!更新日期：2018.11.23
+!更新日期：2019.01.23
 landiannews.com## div.asb.asb-post.asb-post-01
 landiannews.com## div.asb.asb-post.asb-post-02
 landiannews.com## div.asb.asb-post.asb-post-03
@@ -132,6 +132,7 @@ landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
 landiannews.com##div[class="nivoSlider"]
 landiannews.com##div[class="asb-post-footer"]
 landiannews.com##div[class="widget_text widget widget_custom_html"]
+landiannews.com##div[id="metaslider_container_53440"]
 
 
 !maxthon.com
