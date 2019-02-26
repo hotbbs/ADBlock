@@ -309,3 +309,6 @@ t66y.com##div[class="sed2f"]
 91porn.com##div[id="topbar"]
 91porn.com##font[color="red"]
 91porn.com###headnav > table > tbody > tr:nth-child(2) > td
+91porn.com###rightside
+91porn.com###viewvideo-content > div.videoplayer > iframe
+91porn.com###footer
