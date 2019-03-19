@@ -312,4 +312,4 @@ t66y.com##div[class="sed2f"]
 91porn.com###rightside
 91porn.com###viewvideo-content > div.videoplayer > iframe
 91porn.com###footer
-~91porn.com/login.php###rightside
+@@91porn.com/login.php###rightside
