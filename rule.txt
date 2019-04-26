@@ -119,7 +119,7 @@ ithome.com###con > div.con-block > div.rt > div:nth-child(2)
 
 
 !landiannews.com
-!更新日期：2019.03.23
+!更新日期：2019.04.26
 landiannews.com## div.asb.asb-post.asb-post-01
 landiannews.com## div.asb.asb-post.asb-post-02
 landiannews.com## div.asb.asb-post.asb-post-03
@@ -139,6 +139,9 @@ landiannews.com###custom_html-21
 landiannews.com###custom_html-16
 landiannews.com###media_image-26
 landiannews.com###scroll > aside
+landiannews.com##body > main > div > section.video_list
+landiannews.com##body > main > div > section.grid_post
+landiannews.com##body > main > div > section:nth-child(5)
 
 !maxthon.com
 !更新日期：2017.05.24
@@ -199,7 +202,7 @@ nba.com###ng\3a app > div.code-content
 
 
 !qq.com
-!更新日期：2018.04.19
+!更新日期：2019.04.26
 /147687710.jpg/$domain=qq.com
 qq.com##div[class="img-box f-video-wrap"]
 qq.com##div[class="ck-act"]
@@ -207,7 +210,7 @@ qq.com##div[class="img-box f-video-wrap play"]
 qq.com##body > div.live-box.hidden > div.aside
 qq.com##body > div.live-box.hidden > div.section > div.props-area
 qq.com###live-box > div > div.main > div.props-area
-!qq.com##div[class="kbs-tabs-wrapper aside-tab"]
+qq.com##body > div.live-box.hidden > div.aside
 
 
 !sina.com.cn
