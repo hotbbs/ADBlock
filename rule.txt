@@ -12,7 +12,7 @@
 !163.com
 !更新日期：2019.04.29
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
-*imageView&thumbnail=550x0*$domain=163.com
+!*imageView&thumbnail=550x0*$domain=163.com
 !163.com##div[class="post_header"]
 163.com##div[class^="ns_area index_top_ad"]
 163.com##div[id="epContentRight"]
