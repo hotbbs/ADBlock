@@ -53,11 +53,12 @@
 
 
 !carrotchou.blog
-!更新日期：2018.01.08
+!更新日期：2019.05.29
 carrotchou.blog##div[class="widget widget_text"]
 carrotchou.blog##div[class="asb-post-footer"]
 carrotchou.blog##div[class="relates relates-thumb"]
 carrotchou.blog##div[class^="asb asb-post asb-post-"]
+carrotchou.blog##div[class="carousel-inner"]
 
 
 !CNBeta.com
@@ -307,7 +308,7 @@ zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 
 
 !91porn.com && t66y.com
-!更新日期：2017.10.16
+!更新日期：2019.05.29
 /51.la|new2.gif/$domain=91porn.com
 /cnzz/$domain=t66y.com
 *.gif$domain=t66y.com
