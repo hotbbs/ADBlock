@@ -310,11 +310,11 @@ zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 !91porn.com && t66y.com
 !更新日期：2019.05.29
 /51.la|new2.gif/$domain=91porn.com
-/cnzz/$domain=t66y.com
-*.gif$domain=t66y.com
-t66y.com##div[class="tips"]
-t66y.com##table[class="sptable_do_not_remove"]
-t66y.com##div[class="sed2f"]
+!/cnzz/$domain=t66y.com
+!*.gif$domain=t66y.com
+!t66y.com##div[class="tips"]
+!t66y.com##table[class="sptable_do_not_remove"]
+!t66y.com##div[class="sed2f"]
 91porn.com##iframe[height="100"]
 91porn.com##div[id="topbar"]
 91porn.com##font[color="red"]
