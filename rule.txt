@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-!过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt
+!过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt 
 !作者：天涯人
 
 
@@ -296,15 +296,6 @@ zhibo8.cc##div[class="backToTop"]
 zhibo8.cc###pl_box
 zhibo8.cc##body > div.container.margin_top_20
 
-
-!zdfans.com
-!更新日期：2017.07.04
-/cnzz|baidu/$domain=zdfans.com
-zdfans.com###hasfixed > div.wrapper > div.sidebar > a:nth-child(1)
-zdfans.com###hasfixed > div.wrapper > div.sidebar > a:nth-child(2)
-zdfans.com##div.sidebar > div.widget.widget_d_hotpost
-zdfans.com##div.sidebar > div.widget.my_widget_recent_comments
-zdfans.com##div.sidebar > div.widget.widget_d_banner.widget_d_banner_row
 
 
 !91porn.com && t66y.com
