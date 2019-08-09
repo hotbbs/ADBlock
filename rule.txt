@@ -239,7 +239,7 @@ sina.com.cn###pl_side
 
 
 !sohu.com
-!更新日期：2017.07.05
+!更新日期：2019.08.09
 sohu.com##div[class="rightbar-wrapper grid-300"]
 sohu.com##div[class="module-cmt-float-bar"]
 sohu.com##div[id="newsCommentBar"]
@@ -255,7 +255,7 @@ sohu.com###right-side-bar
 sohu.com##body > div.wrapper-box > div.sohu-khd
 sohu.com###sogou-words
 sohu.com###article-container > div.left.main > div.groom-read
-
+sohu.com##div[id="articleAllsee"]
 
 !thepiratebay.org
 !更新日期：2017.07.10
