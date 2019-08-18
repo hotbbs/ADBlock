@@ -130,7 +130,6 @@ landiannews.com## div.relates.relates-thumb
 landiannews.com##body > section > div.sidebar > div.widget.widget_ui_textasb
 landiannews.com##body > section > div.sidebar > div.widget_text.widget.widget_custom_html.affix-top
 landiannews.com##div[class="widget widget_media_image"]
-landiannews.com##body > section > div.sidebar > div:nth-child(5)
 landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
 landiannews.com##div[class="nivoSlider"]
 landiannews.com##div[class="asb-post-footer"]
@@ -144,7 +143,6 @@ landiannews.com###media_image-26
 landiannews.com###scroll > aside
 landiannews.com##body > main > div > section.video_list
 landiannews.com##body > main > div > section.grid_post
-landiannews.com##body > main > div > section:nth-child(5)
 
 !maxthon.com
 !更新日期：2017.05.24
