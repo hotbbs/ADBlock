@@ -50,7 +50,7 @@
 163.com##div[class="mod_netes_origina"]
 163.com##div[class="mt35 mod_pageh5"]
 163.com##div[id="gdtldSwfFrame"]
-
+163.com##div[class="gg200x300"]
 
 !carrotchou.blog
 !更新日期：2019.05.29
