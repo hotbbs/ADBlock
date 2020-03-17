@@ -59,7 +59,6 @@ carrotchou.blog##div[class="asb-post-footer"]
 carrotchou.blog##div[class="relates relates-thumb"]
 carrotchou.blog##div[class^="asb asb-post asb-post-"]
 carrotchou.blog##div[class="carousel-inner"]
-carrotchou.blog##body > main > div > section.topic_list
 
 
 !CNBeta.com
@@ -145,6 +144,7 @@ landiannews.com###scroll > aside
 landiannews.com##body > main > div > section.video_list
 landiannews.com##body > main > div > section.grid_post
 landiannews.com##section[class="ad"]
+landiannews.com##body > main > div > section.topic_list
 
 !maxthon.com
 !更新日期：2017.05.24
