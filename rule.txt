@@ -241,6 +241,7 @@ sina.com.cn###article_content > div.article-content-right
 sina.com.cn##body > div.page-right-bar
 sina.com.cn###tab_related
 sina.com.cn###article_content > div.article-content-left > div.blk-wxfollow.clearfix
+sina.com.cn###footer-wrap
 
 
 !sohu.com
