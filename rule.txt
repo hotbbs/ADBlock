@@ -59,6 +59,9 @@ carrotchou.blog##div[class="asb-post-footer"]
 carrotchou.blog##div[class="relates relates-thumb"]
 carrotchou.blog##div[class^="asb asb-post asb-post-"]
 carrotchou.blog##div[class="carousel-inner"]
+carrotchou.blog##body > section > div.content-wrap > div > div.post-actions
+carrotchou.blog###focusslide
+carrotchou.blog##body > section > div.content-wrap > div > div.action-share
 
 
 !CNBeta.com
