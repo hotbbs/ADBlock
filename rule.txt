@@ -115,6 +115,7 @@ ithome.com##div[class="bl bb"]
 ithome.com###fls
 ithome.com###dt > div.fr
 ithome.com###dt > div.fl.content > iframe.dajia
+ithome.com#side_func
 
 
 !landiannews.com
