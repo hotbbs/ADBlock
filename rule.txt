@@ -104,7 +104,7 @@ ifeng.com##div[class="nextWrap"]
 
 
 !ithome.com
-!更新日期：2018.07.12
+!更新日期：2020.07.26
 /baidu.com/$domain=ithome.com
 ithome.com###tt
 ithome.com###p-b
@@ -113,6 +113,8 @@ ithome.com###nav
 ithome.com###cp
 ithome.com##div[class="bl bb"]
 ithome.com###fls
+ithome.com###dt > div.fr
+ithome.com###dt > div.fl.content > iframe.dajia
 
 
 !landiannews.com
