@@ -109,7 +109,7 @@ ifeng.com##div[class="nextWrap"]
 ithome.com###tt
 ithome.com###p-b
 ithome.com##body > div.bb.ra
-ithome.com###nav
+!ithome.com###nav
 ithome.com###cp
 ithome.com##div[class="bl bb"]
 ithome.com###fls
