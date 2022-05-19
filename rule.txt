@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: My ADBlock
-! 过滤规则订阅地址： https://gitee.com/hotbbs007/ADBlock/raw/master/rule.txt
+! 过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt
 ! 作者：天涯人
 
 
