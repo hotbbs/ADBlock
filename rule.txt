@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
-!过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt 
-!作者：天涯人
+! Title: My ADBlock
+! 过滤规则订阅地址： https://gitee.com/hotbbs007/ADBlock/raw/master/rule.txt
+! 作者：天涯人
 
 
 !12306.cn
@@ -10,7 +11,7 @@
 
 
 !163.com
-!更新日期：2019.04.29
+!更新日期：2021.03.25
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
 !*imageView&thumbnail=550x0*$domain=163.com
 !163.com##div[class="post_header"]
@@ -51,6 +52,20 @@
 163.com##div[class="mt35 mod_pageh5"]
 163.com##div[id="gdtldSwfFrame"]
 163.com##div[class="gg200x300"]
+163.com###container > div.post_side
+163.com###container > div.post_main > div.post_crumb
+163.com###container > div.post_main > div.post_recommends.js-tab-mod
+163.com###contain > div.post_side
+163.com###contain > div.post_main > div.post_crumb
+163.com###contain > div.post_main > div.post_recommends.js-tab-mod
+
+
+!423down.com
+!更新日期：2021.10.25
+/new.png/$domain=423down.com
+423down.com##div[id^="d_theme-"]
+423down.com##a[href^="https://app.weilian.xin/"]
+423down.com##a[href^="https://www.123pan.com"]
 
 !carrotchou.blog
 !更新日期：2019.05.29
@@ -119,29 +134,18 @@ ithome.com###side_func
 
 
 !landiannews.com
-!更新日期：2019.04.26
-landiannews.com## div.asb.asb-post.asb-post-01
-landiannews.com## div.asb.asb-post.asb-post-02
-landiannews.com## div.asb.asb-post.asb-post-03
-landiannews.com## div.relates.relates-thumb
-landiannews.com##body > section > div.sidebar > div.widget.widget_ui_textasb
-landiannews.com##body > section > div.sidebar > div.widget_text.widget.widget_custom_html.affix-top
-landiannews.com##div[class="widget widget_media_image"]
-landiannews.com##body > section > div.sidebar > div.widget.widget_ui_posts
-landiannews.com##div[class="nivoSlider"]
-landiannews.com##div[class="asb-post-footer"]
-landiannews.com##div[class="widget_text widget widget_custom_html"]
-landiannews.com##div[id="metaslider_container_53440"]
-landiannews.com##body > main > div > section.slick_sticky
-landiannews.com##body > main > div > section.download_list
-landiannews.com###custom_html-21
-landiannews.com###custom_html-16
-landiannews.com###media_image-26
-landiannews.com###scroll > aside
-landiannews.com##body > main > div > section.video_list
-landiannews.com##body > main > div > section.grid_post
-landiannews.com##section[class="ad"]
-landiannews.com##body > main > div > section.topic_list
+!更新日期：2022.04.27
+landiannews.com##body > main > div.carousel-posts.both.wrapper.pc
+landiannews.com###home-post-sidebar-2 > aside > section
+landiannews.com###article-page > article > div.content-post > div.content-gg
+landiannews.com###post-sidebar > aside > section
+landiannews.com###post-sidebar > div > section.related-posts.module-bg.module-radius
+landiannews.com##section[class="home-post topic"]
+landiannews.com##section[class="home-post download"]
+landiannews.com##section[class="home-post video"]
+landiannews.com##section[class="sidebar"]
+landiannews.com##body > main > div.home-modules > div > section.home-html-code.module-radius
+/Windows-11-SingleTop.png/$domain=landiannews.com
 
 !maxthon.com
 !更新日期：2017.05.24
@@ -271,12 +275,13 @@ thepiratebay.org##div[id="sky-right"]
 
 !txzqw.me
 !更新日期：2018.04.26
+/*gif/zhaozu1.jpg/$domain=txzqw.me
 txzqw.me###banner
 txzqw.me##div[id="ads_r_tpc"]
 txzqw.me##div[class="bdshare-slide-button-box bdshare-slide-style-r0"]
 txzqw.me###nav-operate > table
 txzqw.me##div[id^="ads_"]
-
+txzqw.me###main > div[class="tac"]
 
 !weather.com.cn
 !更新日期：2017.09.25
@@ -298,22 +303,3 @@ zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 zhibo8.cc###pl_box
 zhibo8.cc##body > div.container.margin_top_20
-
-
-
-!91porn.com && t66y.com
-!更新日期：2019.05.29
-/51.la|new2.gif/$domain=91porn.com
-!/cnzz/$domain=t66y.com
-!*.gif$domain=t66y.com
-!t66y.com##div[class="tips"]
-!t66y.com##table[class="sptable_do_not_remove"]
-!t66y.com##div[class="sed2f"]
-91porn.com##iframe[height="100"]
-91porn.com##div[id="topbar"]
-91porn.com##font[color="red"]
-91porn.com###headnav > table > tbody > tr:nth-child(2) > td
-91porn.com##div[id="small-rightbox"]
-91porn.com###viewvideo-content > div.videoplayer > iframe
-91porn.com###footer
-
