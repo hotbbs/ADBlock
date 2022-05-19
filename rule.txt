@@ -116,7 +116,9 @@ ifeng.com##div[class="box02"]
 ifeng.com##div[id="wx"]
 ifeng.com##div[class="next ss_none"]
 ifeng.com##div[class="nextWrap"]
-
+ifeng.com###div.title-5D5JhRqG
+ifeng.com###div.box-aGzseJM5
+ifeng.com###div.list_box-1YSsT8ck
 
 !ithome.com
 !更新日期：2020.07.26
