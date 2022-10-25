@@ -67,17 +67,6 @@
 423down.com##a[href^="https://app.weilian.xin/"]
 423down.com##a[href^="https://www.123pan.com"]
 
-!carrotchou.blog
-!更新日期：2019.05.29
-carrotchou.blog##div[class="widget widget_text"]
-carrotchou.blog##div[class="asb-post-footer"]
-carrotchou.blog##div[class="relates relates-thumb"]
-carrotchou.blog##div[class^="asb asb-post asb-post-"]
-carrotchou.blog##div[class="carousel-inner"]
-carrotchou.blog##body > section > div.content-wrap > div > div.post-actions
-carrotchou.blog###focusslide
-carrotchou.blog##body > section > div.content-wrap > div > div.action-share
-
 
 !CNBeta.com
 !更新日期：2018.01.08
@@ -125,7 +114,7 @@ ifeng.com##div[class^="qr_box-"]
 
 
 !ithome.com
-!更新日期：2020.07.26
+!更新日期：2022.10.25
 /baidu.com/$domain=ithome.com
 ithome.com###tt
 ithome.com###p-b
@@ -138,6 +127,8 @@ ithome.com###dt > div.fr
 ithome.com###dt > div.fl.content > iframe.dajia
 ithome.com###side_func
 ithome.com###ad-id-6
+ithome.com###dt > div.fl.content > div.related_post
+
 
 !landiannews.com
 !更新日期：2022.04.27
