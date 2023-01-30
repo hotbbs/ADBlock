@@ -146,9 +146,9 @@ landiannews.com##body > main > div.home-modules > div > section.home-html-code.m
 
 !letpub.com.cn
 !更新日期：2023.01.30
-letpub.com.cn/###yxyz_content > div.layui-row
-letpub.com.cn/###fixed_right_grant
-letpub.com.cn/###xd_popbox
+letpub.com.cn###yxyz_content > div.layui-row
+letpub.com.cn###fixed_right_grant
+letpub.com.cn###xd_popbox
 
 
 !maxthon.com
