@@ -151,7 +151,7 @@ letpub.com.cn###yxyz_content > div.layui-row
 letpub.com.cn###yxyz_content > table:nth-child(17) > tbody > tr:nth-child(1) > td > div
 letpub.com.cn###fixed_right_grant
 letpub.com.cn###xd_popbox
-
+letpub.com.cn###div.media-body > a > div.media
 
 !maxthon.com
 !更新日期：2017.05.24
