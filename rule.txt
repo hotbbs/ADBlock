@@ -109,8 +109,7 @@ ifeng.com##.title-5D5JhRqG
 ifeng.com##.info_box-2dImLzLw.clearfix
 ifeng.com##.box-aGzseJM5
 ifeng.com##.box-3CMOCwhX
-ifeng.com##div[class^="rightContent-"]
-ifeng.com##div[class^="qr_box-"]
+ifeng.com##div[class^="index_qr_box_"]
 ifeng.com##div[class^="index_list_box_"]
 ifeng.com##div[class^="index_hotList_"]
 ifeng.com##div[class^="index_title_"]
