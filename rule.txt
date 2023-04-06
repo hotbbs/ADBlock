@@ -96,7 +96,7 @@ CNBeta.com##div[class="article-share-code"]
 
 
 !ifeng.com
-!更新日期：2016.09.19
+!更新日期：2023.04.06
 ifeng.com##div[class="right"]
 ifeng.com##div[class^="space"]
 ifeng.com##div[class="adbox02 ss_none"]
@@ -116,7 +116,7 @@ ifeng.com##div[class^="index_hotList_"]
 ifeng.com##div[class^="index_title_"]
 ifeng.com##div[class^="index_box_"]
 ifeng.com##div[class^="index_assess_"]
-
+ifeng.com##div[class^="index_rightContent_"]
 
 !ithome.com
 !更新日期：2023.02.25
