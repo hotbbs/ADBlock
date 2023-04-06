@@ -111,7 +111,8 @@ ifeng.com##.box-aGzseJM5
 ifeng.com##.box-3CMOCwhX
 ifeng.com##div[class^="rightContent-"]
 ifeng.com##div[class^="qr_box-"]
-
+ifeng.com##div[class^="index_list_box_"]
+ifeng.com##div[class^="index_hotList_"]
 
 !ithome.com
 !更新日期：2023.02.25
