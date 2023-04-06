@@ -113,7 +113,7 @@ ifeng.com##div[class^="rightContent-"]
 ifeng.com##div[class^="qr_box-"]
 ifeng.com##div[class^="index_list_box_"]
 ifeng.com##div[class^="index_hotList_"]
-ifeng.com##div[class^="class="index_title_"]
+ifeng.com##div[class^="index_title_"]
 ifeng.com##div[class^="index_box_"]
 ifeng.com##div[class^="index_assess_"]
 
