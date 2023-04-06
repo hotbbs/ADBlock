@@ -3,15 +3,8 @@
 ! 过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt
 ! 作者：天涯人
 
-
-!12306.cn
-!更新日期：2016.08.22
-12306.cn##div#top
-12306.cn##div[id="appDown"]
-
-
 !163.com
-!更新日期：2021.03.25
+!更新日期：2023.04.06
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
 !*imageView&thumbnail=550x0*$domain=163.com
 !163.com##div[class="post_header"]
@@ -58,6 +51,7 @@
 163.com###contain > div.post_side
 163.com###contain > div.post_main > div.post_crumb
 163.com###contain > div.post_main > div.post_recommends.js-tab-mod
+163.com###content > div.post_next
 
 
 !423down.com
@@ -66,33 +60,6 @@
 423down.com##div[id^="d_theme-"]
 423down.com##a[href^="https://app.weilian.xin/"]
 423down.com##a[href^="https://www.123pan.com"]
-
-
-!CNBeta.com
-!更新日期：2018.01.08
-/weibo.com|tanx.com|baidu.com/$domain=cnbeta.com
-CNBeta.com##div[class="topContent"]
-CNBeta.com##div[class="cnbeta-swiper-headlines-outter-wrapper"]
-CNBeta.com##div[class="tks"]
-CNBeta.com##div[class="cnbeta-side-wrapper poll-box"]
-CNBeta.com##h3[class="cnbeta-side-blue-title"]
-CNBeta.com##div[class^="cber-hot-tabs"]
-CNBeta.com##div[class="cnbeta-update-list-article"]
-CNBeta.com##div[id="relation_box"]
-CNBeta.com##div[class="cnbeta-article-vote-tags"]
-CNBeta.com##div[class="cnbeta-article-latest"]
-CNBeta.com##div[class="cnbeta-side-sponsor mt5"]
-CNBeta.com##div[id="cb_share"]
-CNBeta.com##body > div.main-wrap > div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBanner > div > div
-CNBeta.com##body > div.main-wrap > div.cnbeta-update > div > div.cnbeta-home-side > div:nth-child(1)
-CNBeta.com##a[class="page-last"]
-CNBeta.com##a[class="page-next"]
-CNBeta.com##div[class="page-last"]
-CNBeta.com##div[style*="z-index:99999"]
-CNBeta.com##div.cnbeta-article-wrapper > div.cnbeta-update > div.cnbeta-fullBanner > div
-CNBeta.com##upcoming_box
-CNBeta.com##body > div.main-wrap > div.cnbeta-article-wrapper > div.cnbeta-update > div.w1200 > div.cnbeta-article > div.cnbeta-article-body > div.tac > div.cbv810
-CNBeta.com##div[class="article-share-code"]
 
 
 !ifeng.com
@@ -214,11 +181,6 @@ muchong.com##div[class="forum_Post bg_global"]
  Mydrivers.com##div[style="width:728px; height:90px; margin:auto;"]
  Mydrivers.com##div[style="width:728px; height:69px; margin:auto; padding-top:5px;"]
  Mydrivers.com##div[style="margin:0 auto; width:728px; height:90px;"]
-
-
-!nba.com
-!更新日期：2018.05.08
-nba.com###ng\3a app > div.code-content
 
 
 !qq.com
