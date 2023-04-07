@@ -119,7 +119,8 @@ landiannews.com##section[class="home-post video"]
 landiannews.com##section[class="sidebar"]
 landiannews.com##body > main > div.home-modules > div > section.home-html-code.module-radius
 /Windows-11-SingleTop.png/$domain=landiannews.com
-landiannews.com##body > main > div.home-modules > div > section.home-custom-nav.module-bg.module-radius
+landiannews.com###section.home-custom-nav.module-bg.module-radius
+landiannews.com###related-posts
 
 
 !letpub.com.cn
