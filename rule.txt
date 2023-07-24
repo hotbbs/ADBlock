@@ -80,9 +80,9 @@ ifeng.com##div[class^="index_qr_box_"]
 ifeng.com##div[class^="index_list_box_"]
 ifeng.com##div[class^="index_hotList_"]
 ifeng.com##div[class^="index_title_"]
-!ifeng.com##div[class^="index_box_"]
+ifeng.com##div[class^="index_topDbox_"]
 ifeng.com##div[class^="index_assess_"]
-!ifeng.com##div[class^="index_rightContent_"]
+ifeng.com##div[class^="index_rightContent_"]
 ifeng.com##div[class^="index_bottom_affix_"]
 
 
