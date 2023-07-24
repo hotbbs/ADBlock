@@ -63,7 +63,7 @@
 
 
 !ifeng.com
-!更新日期：2023.04.06
+!更新日期：2023.07.27
 ifeng.com##div[class="right"]
 ifeng.com##div[class^="space"]
 ifeng.com##div[class="adbox02 ss_none"]
@@ -80,7 +80,7 @@ ifeng.com##div[class^="index_qr_box_"]
 ifeng.com##div[class^="index_list_box_"]
 ifeng.com##div[class^="index_hotList_"]
 ifeng.com##div[class^="index_title_"]
-ifeng.com##div[class^="index_topDbox_"]
+ifeng.com##div[class^="index_topDbox"]
 ifeng.com##div[class^="index_assess_"]
 ifeng.com##div[class^="index_rightContent_"]
 ifeng.com##div[class^="index_bottom_affix_"]
