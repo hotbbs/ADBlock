@@ -84,7 +84,7 @@ ifeng.com##div[class^="index_topDbox"]
 ifeng.com##div[class^="index_assess_"]
 ifeng.com##div[class^="index_rightContent_"]
 ifeng.com##div[class^="index_bottom_affix_"]
-
+ifeng.com##div[class="index_box_HGdrQ"]
 
 
 !ithome.com
