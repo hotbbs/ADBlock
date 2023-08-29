@@ -4,7 +4,7 @@
 ! 作者：天涯人
 
 !163.com
-!更新日期：2023.04.06
+!更新日期：2023.08.29
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
 !*imageView&thumbnail=550x0*$domain=163.com
 !163.com##div[class="post_header"]
@@ -52,7 +52,7 @@
 163.com###contain > div.post_main > div.post_crumb
 163.com###contain > div.post_main > div.post_recommends.js-tab-mod
 163.com###content > div.post_next
-
+163.com###content > div.post_top.post_top_fixed > div.post_top_share
 
 !423down.com
 !更新日期：2021.10.25
