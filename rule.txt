@@ -52,7 +52,7 @@
 163.com###contain > div.post_main > div.post_crumb
 163.com###contain > div.post_main > div.post_recommends.js-tab-mod
 163.com###content > div.post_next
-163.com###content > div.post_top.post_top_fixed > div.post_top_share
+163.com##div.post_top_share
 
 !423down.com
 !更新日期：2021.10.25
