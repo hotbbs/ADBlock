@@ -185,6 +185,10 @@ muchong.com##div[class="forum_Post bg_global"]
 mydrivers.com###vleft_tab
 mydrivers.com###vright_tab
 mydrivers.com##body > div.main_box > div.main_right
+mydrivers.com###main_contents > div.news_zc
+mydrivers.com###main_contents > div.news_df
+mydrivers.com###main_contents > div.function
+
 
 !qq.com
 !更新日期：2019.04.26
