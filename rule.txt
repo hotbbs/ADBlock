@@ -184,9 +184,7 @@ muchong.com##div[class="forum_Post bg_global"]
  Mydrivers.com##div[style="margin:0 auto; width:728px; height:90px;"]
 mydrivers.com###vleft_tab
 mydrivers.com###vright_tab
-mydrivers.com##body > div.main_box > div.main_right > div:nth-child(4)
-mydrivers.com##body > div.main_box > div.main_right > div:nth-child(6)
-mydrivers.com###news_guanzhu
+mydrivers.com##body > div.main_box > div.main_right
 
 !qq.com
 !更新日期：2019.04.26
