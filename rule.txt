@@ -85,8 +85,8 @@ ifeng.com##div[class^="index_assess_"]
 ifeng.com##div[class^="index_rightContent_"]
 ifeng.com##div[class^="index_bottom_affix_"]
 ifeng.com##div[class="index_box_HGdrQ"]
-ifeng.com###div.index_container_sQwKn
-ifeng.com###div.index_hotTopic_DuSeo
+ifeng.com##div.index_container_sQwKn
+ifeng.com##div.index_hotTopic_DuSeo
 
 !ithome.com
 !更新日期：2023.02.25
@@ -161,30 +161,30 @@ muchong.com##div[class="forum_Post bg_global"]
 
 !Mydrivers.com
 !更新日期：2018.11.29
- /2345.com|baidu/$domain=mydrivers.com
- Mydrivers.com##table[width="998"]
- Mydrivers.com##div[class="news_right"]
- Mydrivers.com##div[class="btnPrev"]
- Mydrivers.com##div[class="btnNext"]
- Mydrivers.com##div[class="weixin"]
- Mydrivers.com##div[class="news_xg"]
- Mydrivers.com##div[class="adggg1"]
- Mydrivers.com##div[style="width:641px; height:30px;"]
- Mydrivers.com##p[class="news_bq"]
- Mydrivers.com##table[width="100%"]
- Mydrivers.com##div[style="height:50px;"]
- Mydrivers.com##div[class="shidian"]
- Mydrivers.com##div[class="zcdf"]
- Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
- Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
- Mydrivers.com##div[id="a_showhotnews_list_dia"]
- Mydrivers.com##div[class="baidu"]
- Mydrivers.com###top_2_right2
- Mydrivers.com##body > div.news_box > div.news_left > div.share
- Mydrivers.com##div[style="width:1300px; height:90px;margin:auto;background-color:#FFF"]
- Mydrivers.com##div[style="width:728px; height:90px; margin:auto;"]
- Mydrivers.com##div[style="width:728px; height:69px; margin:auto; padding-top:5px;"]
- Mydrivers.com##div[style="margin:0 auto; width:728px; height:90px;"]
+/2345.com|baidu/$domain=mydrivers.com
+Mydrivers.com##table[width="998"]
+Mydrivers.com##div[class="news_right"]
+Mydrivers.com##div[class="btnPrev"]
+Mydrivers.com##div[class="btnNext"]
+Mydrivers.com##div[class="weixin"]
+Mydrivers.com##div[class="news_xg"]
+Mydrivers.com##div[class="adggg1"]
+Mydrivers.com##div[style="width:641px; height:30px;"]
+Mydrivers.com##p[class="news_bq"]
+Mydrivers.com##table[width="100%"]
+Mydrivers.com##div[style="height:50px;"]
+Mydrivers.com##div[class="shidian"]
+Mydrivers.com##div[class="zcdf"]
+Mydrivers.com##div[style="padding-bottom:7px;padding-top:7px;"]
+Mydrivers.com##div[style="width:580px;margin:auto; padding:10px 0"]
+Mydrivers.com##div[id="a_showhotnews_list_dia"]
+Mydrivers.com##div[class="baidu"]
+Mydrivers.com###top_2_right2
+Mydrivers.com##body > div.news_box > div.news_left > div.share
+Mydrivers.com##div[style="width:1300px; height:90px;margin:auto;background-color:#FFF"]
+Mydrivers.com##div[style="width:728px; height:90px; margin:auto;"]
+Mydrivers.com##div[style="width:728px; height:69px; margin:auto; padding-top:5px;"]
+Mydrivers.com##div[style="margin:0 auto; width:728px; height:90px;"]
 mydrivers.com###vleft_tab
 mydrivers.com###vright_tab
 mydrivers.com##body > div.main_box > div.main_right
