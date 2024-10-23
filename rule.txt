@@ -192,6 +192,7 @@ mydrivers.com###main_contents > div.news_zc
 mydrivers.com###main_contents > div.news_df
 mydrivers.com###main_contents > div.function
 mydrivers.com##body > div.pathway > ul > li.science
+||img1.kkeji.com/img/2005/20241023/195849707.png$domain=mydrivers.com
 
 
 !qq.com
