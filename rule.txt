@@ -87,6 +87,8 @@ ifeng.com##div[class^="index_bottom_affix_"]
 ifeng.com##div[class="index_box_HGdrQ"]
 ifeng.com##div.index_container_sQwKn
 ifeng.com##div.index_hotTopic_DuSeo
+ifeng.com##div.index_box_noDu-
+
 
 !ithome.com
 !更新日期：2023.02.25
