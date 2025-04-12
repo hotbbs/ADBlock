@@ -242,7 +242,8 @@ sina.com.cn##div[id^="sinaadToolkitBox"]
 sina.com.cn###article_content > div.article-content-left > div.vip-class
 sina.com.cn###article_content > div.article-content-left > div.app-viplive
 sina.com.cn###artibody > div.clearfix.appendQr_wrap
-sina.com.cn###ad_44086
+sina.com.cn##div[id^="ad_"]
+
 
 
 !sohu.com
