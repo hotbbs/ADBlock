@@ -136,6 +136,10 @@ letpub.com.cn###yxyz_content > table:nth-child(17) > tbody > tr:nth-child(1) > t
 letpub.com.cn###fixed_right_grant
 letpub.com.cn###xd_popbox
 letpub.com.cn##.media
+letpub.com.cn###layui-layer-shade1
+letpub.com.cn###layui-layer2
+/LetPub_AI_QC_Editing_Service.gif/$domain=letpub.com.cn
+letpub.com.cn###post_new_journal_comments_float_button
 
 
 !maxthon.com
