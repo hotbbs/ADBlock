@@ -88,6 +88,7 @@ ifeng.com##div[class="index_box_HGdrQ"]
 ifeng.com##div.index_container_sQwKn
 ifeng.com##div.index_hotTopic_DuSeo
 ifeng.com##div.index_box_noDu-
+ifeng.com###viewDiv
 
 
 !ithome.com
