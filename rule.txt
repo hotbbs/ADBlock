@@ -252,7 +252,6 @@ sina.com.cn###artibody > div.clearfix.appendQr_wrap
 sina.com.cn##div[id^="ad_440"]
 
 
-
 !sohu.com
 !更新日期：2019.08.09
 sohu.com##div[class="rightbar-wrapper grid-300"]
@@ -303,7 +302,11 @@ weather.com.cn##div[class="rednews rednews1"]
 weather.com.cn##div[class="relatednews"]
 weather.com.cn##div[class="right fr"]
 weather.com.cn##div[id="ab_yjfk"]
+
+!91P
+!更新日期：2025.0.19
 */fh.mp4$domain=91porn.com 
+91porn.com###videodetails-content
 
 !zhibo8.cc
 !更新日期：2018.18.17
