@@ -116,7 +116,8 @@ landiannews.com##body > main > div.carousel-posts.both.wrapper.pc
 landiannews.com##body > main > div.home-modules > div > section.home-post.download
 landiannews.com##body > main > div.home-modules > div > section.home-post.topic
 landiannews.com###home-mount-4
-landiannews.com###aside
+landiannews.com##aside[class="aside"]
+landiannews.com###home-post-sidebar-5 > aside
 
 
 !letpub.com.cn
