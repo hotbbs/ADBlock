@@ -111,8 +111,12 @@ ithome.com###rm-login-modal
 
 
 !landiannews.com
-!更新日期：2022.04.27
-
+!更新日期：2026.03.06
+landiannews.com##body > main > div.carousel-posts.both.wrapper.pc
+landiannews.com##body > main > div.home-modules > div > section.home-post.download
+landiannews.com##body > main > div.home-modules > div > section.home-post.topic
+landiannews.com###home-mount-4
+landiannews.com###\31 12042-sidebar > aside
 
 
 !letpub.com.cn
