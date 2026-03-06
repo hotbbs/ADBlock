@@ -112,22 +112,7 @@ ithome.com###rm-login-modal
 
 !landiannews.com
 !更新日期：2022.04.27
-landiannews.com##body > main > div.carousel-posts.both.wrapper.pc
-landiannews.com###home-post-sidebar-2 > aside > section
-landiannews.com###article-page > article > div.content-post > div.content-gg
-landiannews.com###post-sidebar > aside > section
-landiannews.com###post-sidebar > div > section.related-posts.module-bg.module-radius
-landiannews.com##section[class="home-post topic"]
-landiannews.com##section[class="home-post download"]
-landiannews.com##section[class="home-post video"]
-landiannews.com##section[class="sidebar"]
-landiannews.com##body > main > div.home-modules > div > section.home-html-code.module-radius
-/Windows-11-SingleTop.png/$domain=landiannews.com
-landiannews.com###related-posts
-landiannews.com##body > main > div.home-modules > div > section.home-custom-nav.module-bg.module-radius
-landiannews.com###home-mount-1
-landiannews.com###home-mount-5
-||img.lancdn.com/public/images/view/Aliyun_Partner_Landian_PC_.20241111_1920-200.jpg
+
 
 
 !letpub.com.cn
