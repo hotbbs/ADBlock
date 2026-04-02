@@ -210,7 +210,7 @@ qq.com##body > div.live-box.hidden > div.aside
 
 
 !sina.com.cn
-!更新日期：2025.04.18
+!更新日期：2026.04.02
 /weibo/$domain=sina.com.cn
 sina.com.cn##div[class="right"]
 sina.com.cn##div[class="desktop-side-tool CCC-float-bar-right"]
@@ -240,6 +240,7 @@ sina.com.cn###article_content > div.article-content-left > div.vip-class
 sina.com.cn###article_content > div.article-content-left > div.app-viplive
 sina.com.cn###artibody > div.clearfix.appendQr_wrap
 sina.com.cn##div[id^="ad_440"]
+sina.com.cn##body > div.main-content.w1240 > div.path-search.flex > div.qrcode-wrap
 
 
 !sohu.com
