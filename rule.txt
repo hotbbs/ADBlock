@@ -298,7 +298,7 @@ weather.com.cn##div[id="ab_yjfk"]
 !91P
 !更新日期：2025.0.19
 *bs2/ad-i18n-dsp/*$domain=91porn.com 
-91porn.com###useraction
+!91porn.com###useraction
 
 !zhibo8.cc
 !更新日期：2018.18.17
