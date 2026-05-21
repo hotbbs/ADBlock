@@ -63,7 +63,7 @@
 
 
 !ifeng.com
-!更新日期：2023.07.27
+!更新日期：2026.05.21
 ifeng.com##div[class="right"]
 ifeng.com##div[class^="space"]
 ifeng.com##div[class="adbox02 ss_none"]
@@ -89,7 +89,7 @@ ifeng.com##div.index_container_sQwKn
 ifeng.com##div.index_hotTopic_DuSeo
 ifeng.com##div.index_box_noDu-
 ifeng.com###viewDiv
-
+ifeng.com##div.index_financeAd_HP0pG
 
 !ithome.com
 !更新日期：2023.02.25
