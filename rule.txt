@@ -111,10 +111,15 @@ ithome.com###rm-login-modal
 
 
 !landiannews.com
-!更新日期：2026.05.24
+!更新日期：2026.05.27
 landian.news##body > main > div.carousel-posts.both.wrapper.pc
 landian.news##body > main > div.home-modules > div > section.home-post.download
 landian.news##body > main > div.home-modules > div > section.home-post.topic
+landian.news##body > main > div.home-modules > div > section:nth-child(1)
+landian.news##body > main > div.home-modules > div > section:nth-child(2)
+landian.news##body > main > div.home-modules > div > section:nth-child(3)
+landian.news##body > main > div.home-modules > div > section:nth-child(4)
+landian.news##body > main > div.home-modules > div > section:nth-child(5)
 landian.news###home-mount-4
 landian.news##aside[class="aside"]
 landian.news###home-post-sidebar-5 > aside
