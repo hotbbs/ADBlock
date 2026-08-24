@@ -85,6 +85,7 @@ ifeng.com##div[class^="index_assess_"]
 ifeng.com##div[class^="index_rightContent_"]
 ifeng.com##div[class^="index_bottom_affix_"]
 ifeng.com##div[class="index_box_HGdrQ"]
+ifeng.com##section[class="index_box_HGdrQ"]
 ifeng.com##div.index_container_sQwKn
 ifeng.com##div.index_hotTopic_DuSeo
 ifeng.com##div.index_box_noDu-
