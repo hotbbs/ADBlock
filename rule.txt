@@ -130,7 +130,7 @@ landian.news###article-page > article > div.content-post > p.single-activity-tic
 landian.news###continue-reading-posts
 
 !letpub.com.cn
-!更新日期：2025.04.24
+!更新日期：2026.09.02
 letpub.com.cn###yxyz_content > div.layui-row
 letpub.com.cn###yxyz_content > table:nth-child(17) > tbody > tr:nth-child(1) > td > div
 letpub.com.cn###fixed_right_grant
@@ -142,6 +142,10 @@ letpub.com.cn###layui-layer-shade2
 !letpub.com.cn###layui-layer2
 /LetPub_AI_QC_Editing_Service.gif/$domain=letpub.com.cn
 letpub.com.cn###post_new_journal_comments_float_button
+letpub.com.cn##body > div.logo_layout > div > div:nth-child(3)
+letpub.com.cn###yxyz_content > table:nth-child(5)
+letpub.com.cn###yxyz_content > table:nth-child(6)
+letpub.com.cn###yxyz_content > a
 
 
 !maxthon.com
