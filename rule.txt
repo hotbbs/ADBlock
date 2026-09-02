@@ -143,6 +143,7 @@ letpub.com.cn###layui-layer-shade2
 /LetPub_AI_QC_Editing_Service.gif/$domain=letpub.com.cn
 letpub.com.cn###post_new_journal_comments_float_button
 letpub.com.cn##body > div.logo_layout > div > div:nth-child(3)
+letpub.com.cn###yxyz_content > table:nth-child(4)
 letpub.com.cn###yxyz_content > table:nth-child(5)
 letpub.com.cn###yxyz_content > table:nth-child(6)
 letpub.com.cn###yxyz_content > a
