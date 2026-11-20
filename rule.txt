@@ -3,7 +3,7 @@
 ! 过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt
 ! 作者：天涯人
 ! 最后更新时间：2026.09.16
-##object#zjswf
+
 !163.com
 !更新日期：2023.08.29
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
@@ -309,15 +309,20 @@ weather.com.cn##div[class="right fr"]
 weather.com.cn##div[id="ab_yjfk"]
 
 !91P
-!更新日期：2025.0.19
+!更新日期：2025.08.19
 *bs2/ad-i18n-dsp/*$domain=91porn.com 
 !91porn.com###useraction
 
 !zhibo8.cc
-!更新日期：2018.18.17
+!更新日期：2018.08.17
 zhibo8.cc##div[id="recommend"]
 zhibo8.cc##div[class="pop-autoapp"]
 zhibo8.cc##div[class="bbs_container right"]
 zhibo8.cc##div[class="backToTop"]
 zhibo8.cc###pl_box
 zhibo8.cc##body > div.container.margin_top_20
+
+!cnki.net
+!更新日期：2026.11.20
+cnki.net##object#zjswf
+
