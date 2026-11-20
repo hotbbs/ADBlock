@@ -3,7 +3,7 @@
 ! 过滤规则订阅地址： https://raw.githubusercontent.com/hotbbs/ADBlock/master/rule.txt
 ! 作者：天涯人
 ! 最后更新时间：2026.09.16
-*.swf*
+##object#zjswf
 !163.com
 !更新日期：2023.08.29
 /bobo|ove.163.com|cnzz|51.la/$domain=163.com
